@@ -200,7 +200,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
-
+# 로컬 환경 설정 파일 및 API 키 관련 파일 제외
+.env
 # Marimo
 marimo/_static/
 marimo/_lsp/
