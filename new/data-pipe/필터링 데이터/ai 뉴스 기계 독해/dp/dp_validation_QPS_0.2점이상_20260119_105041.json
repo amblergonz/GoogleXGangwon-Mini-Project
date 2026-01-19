@@ -1,0 +1,2174 @@
+[
+  {
+    "sentence": "다음은 신 씨 주장과 이날 고 대표가 반박한 내용을 간략히 정리한 것이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그 결과 카페인 그룹이 대조군에 비해 전날 보았던 것과 비슷하지만 다른 것을 훨씬 잘 구분해냈다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하씨와 선원 김모(51)씨는 물에 빠져 있다가 인근 어선에 의해 구조됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "아울러 이란이 협상을 진행하는 것만으로도 대규모 제재완화 효과를 누리는 것이 북한 핵협상에 부정적 영향을 끼칠 수 있다는 분석도 나온다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이에 페인을 비롯한 호주 선수들이 류승우 선수에게 크게 항의했고 국내 축구팬들 역시 류승수 선수의 플레이를 지적했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이제 아픈 기억을 잊고, 꿈을 향해 가고 있는 에일리가 또 다시 과거의 아픈 기억으로 인해 더 큰 상처를 받게 될까 우려됩니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "참가자들은 영풍문고 앞에서 자유발언을 통해 세월호 참사에 대한 진상 규명과 책임자 처벌 등을 강조했다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "상품출시 초기 노쇼핑·선택관광상품 판매비중이 비슷한 일정의 일반상품과 비교하면 3대 7 정도였지만 올해 1월부터는 6대 4로 역전됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 리콜 시행 전에 이미 결함내용을 자비로 수리한 차종 소유자는 제작사에 수리 비용에 대한 보상을 신청할 수 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "지방 출장 때마다 KTX를 자주 이용하는 벤처기업 김 사장은 50여만원이나 모인 철도포인트 때문에 어리둥절할 때가 많았다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "특히 윤주화 제일모직 패션부문 사장이 취임한 지 10개월 만에 내려진 결정인만큼 윤 사장의 임무가 사업양도를 위한 준비작업이었다는 관측도 나오고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 인질 중 1명이 사망하고 다른 1명이 중상을 입은 것으로 알려졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "경찰은 신 씨가 범행을 강력히 부인함에 따라 압수수색영장을 발부받아 보험 관련 내용을 추가로 확인하는 등 보강조사를 벌이고 있다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "A씨의 동생 역시 치료를 받았으나 악몽, 불면증, 우울증에 시달리다가 지난달 6일 한남대교에서 투신 직전 경찰에 극적으로 구조됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "윌리엄 왕세손 부부가 조지 왕자가 자라는 동안 사생활을 보호해달라는 당부를 했던 만큼, 영국 왕실의 이번 사진 공개는 세간의 주목을 받고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 전두환·노태우 두 군사정권의 후예의 비호 속에, 중앙정보부는 국가안전기획부라는 이름으로 그 악행이 숨겨져 왔습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "최근 뮤지컬 <두 도시 이야기>에 출연중인 백민정, 임혜영 배우로 인해 논란이 일어난 것에 대해 먼저 유감을 표시합니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이들은 이번 조치가 NYT의 장기적 수익구조를 유지하려는 것이라고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "지금 차가운 유치장에 계실 총회장님의 마음도 저와 같을 것이라 생각하며 이화인 여러분에게 오늘 있었던 연행, 페이스북 테러 등의 사건에 관한 입장, 그리고 여러 가지 우려하고 지적해주신 부분에 대한 의견을 말씀드리고자 이렇게 글을 쓰게 되었습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "한편 '복면가왕'은 가면을 쓴 스타들이 무대에 올라 오로지 노래 실력만으로 평가받는 음악 추리 프로그램이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "차기 당권을 둘러싼 주류·비주류 간 갈등이 가시화되는데다 비주류 일각에서 문 전 후보의 대선패배 책임론을 거론하며 의원직 사퇴까지 주장하는 목소리도 나오는 등 운신의 폭이 좁은 상황을 의식한 것으로 보인다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 대표가 평양에 머무는 동안 주민들에게 틈틈이 속옷을 나눠주는 건 성공했지만 사진은 함께 찍지 못했다며 대부분 휴대폰 카메라로 찍은 제한적인 사진만 공개했습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "유학생활을 통해 접한 서방세계의 문물과 경험을 바탕으로 '젊은 지도자'의 이미지를 대내에 과시하려는 의도로 풀이된다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "선관위는 또 대통령·국회의원·지방자치단체장 후보의 오픈 프라이머리(완전국민경선) 도입 논의와 관련, 전국에서 같은 날 동시에 경선을 치르는 방안도 제안했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "AP통신은 네팔 정부를 인용해 이날 카트만두에서 최소 3명, 돌카지역에서 9명이 잔해더미에 깔렸다가 안전하게 구조됐다고 보도했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "결국 부대 측은 김 씨를 경찰에 신고했고, 김 씨에게는 공무집행방해 혐의가 적용됐다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 지난해 11월 서울중앙지법은 해킹 피해자 2천847명이 SK컴즈, 이스트소프트 등과 국가를 상대로 제기한 손해배상 청구소송에서 원고패소 판결한 바 있으며 다른 집단 소송에서도 잇따라 패소했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "마르샹의 이번 기록은 체코의 온드르제이 소센카가 2005년 세운 전 연령대 세계 신기록인 49.7㎞에 비하면 절반 수준이지만, 102세의 고령인 마르샹이 2년 사이에 기록을 더 단축했다는 점 때문에 사람들의 갈채를 받았다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "인터뷰에서 A씨는 고객 B씨의 행동도 문제였지만 이 상황을 방관한 백화점 측에도 문제가 있다고 주장했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "결국 박씨 집 안에서 살충제 원액이 든 병과 살충제를 옮겨 담은 드링크제 병이 모두 나온 것이다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 당시 관제센터와 교신을 한 선원은 1등 항해사로 교신 당시 세월호 선장의 정확한 위치는 알려지지 않고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "걸그룹 소녀시대 출신 제시카(정수연·26)가 동생 크리스탈(정수정·21)과 함께 찍은 사진을 올렸다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "한민구 국방장관은 13일 군(軍) 복무 중 쓰러져 식물인간 상태로 있다가 최근 깨어나 복무 당시 선임병들에 의한 구타 주장을 제기한 구모 이병 사건과 관련, 재수사 방침을 밝히면서도 현재로서는 기존 군 수사결과를 신뢰하고 있다고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이런 A씨의 사정은 뒤늦게 주변 이주여성을 통해 외부로 알려졌고, 결국 박씨는 경찰에 구속됐다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 마케팅이란 이 중요한 부서를 맡은 이상 최선을 다 하고 싶었고 여기까지 왔어요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "저도 그 글로 인해 많은분들께 심려를 끼치게 되면서 사실여부를 떠나 지금까지 노력해왔지만 앞으로는 더 겸손해야겠다고 생각했습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그는 지진 때문에 서 있기도 어려운 상황에도 불구하고 현지 상황을 생생하게 전했다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "제작진은 이 남성이 연예인 스폰서가 실제 존재한다는 사실을 증명하려고 녹취 파일, 사진, 금융거래내력을 제시했다고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이런 진술이 맞는다면 이는 병영 내에 따돌림이 존재했음을 시사하는 것이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "개장국 식당에서 사라진 종업원 수는 닝보에서 탈출한 것으로 알려진 종업원 수 13명과 공교롭게 일치하지만 이들이 같은 사람들인지는 확실하지 않다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "한편 사고 직후 여객선 선장이 가장 먼저 탈출했다는 주장이 나왔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "국정원은 지난달 28일 이 의원과 진보당 당직자들의 집과 사무실에 대한 압수수색에서 확보한 증거물 분석에도 집중하고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "국정원은 프로그램을 구입하고 이메일을 통해 각종 문의는 했으나 구입 물량이 소량이고 목적도 북한의 해킹을 대비하기 위한 연구용이라면서 시민들을 대상으로 해킹을 한 적은 결코 없다고 거듭 강조했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 딱한 사정을 참작한 법원의 판결로 김씨는 다시 자유의 몸이 됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 검찰은 그의 진정성을 의심하며 징역 4년을 구형했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "걸그룹 '레이디스코드'의 리세(권리세)가 결국 7일 오전 23살 나이로 세상을 떠났다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "남학생쪽에서는 고소가 불기소처분되자 오히려 제 딸을 무고죄로 고소한 상태입니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 이미 영업이 끝난 시간인데다 건물 안에 남아 있던 사람들이 재빨리 대피해 인명피해는 없었다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "또 27일께 전국적으로 비가 오면서 기압계 흐름이 약간 빨라질 것으로 관측됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "무상급식이 정부의 국고지원 불가 입장 때문에 난관에 부닥쳐 있습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "앞서 노 씨는 아내와 함께 운영하고 있는 카페 '노유민코페'가 상표권을 위반했다는 브로커 주장에 대해 법적 대응하겠다는 입장을 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "앞서 중국 CCTV는 교통운수부 남중국해 구조국이 이날 오전 10시 49분과 11시 30분에 각각 구조 선박을 남중국해로 보내 수색과 구조작업을 벌이도록 했다고 전했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "경찰은 포장도 뜯지 않은 새 스마트폰이 유통되고 있다는 첩보를 입수하고 수사에 착수, 현장 폐쇄회로(CC)TV 분석을 통해 최씨의 범행 장면을 확인해 검거했다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이에 대해 바티칸은 성명을 통해 유엔아동인권위원회 보고서를 충분하게 검토하고 아동 권리 보호와 옹호에 적극 나설 것이라고 전제하면서 그러나 보고서가 인간의 존엄에 대한 가톨릭 교회의 교리에 대해 간섭하려 하는 것은 유감이라고 반박했다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이들은 연기로 뒤덮인 마을 곳곳을 누비며 대피하지 못한 주민들을 확인하고, 몸이 불편해 마을을 빠져나오지 못한 노인을 구조하기도 했습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "'언프리티 랩스타'에 출연한 가수 제시(호현주)가 첫 대결에서 탈락하자 자신의 심경을 랩으로 표현했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "사고 피해자 가족 1천200여 명도 젠린현을 찾아 구조소식을 기다리고 있으며 현지 주민들이 이들에게 임시 거처와 식사를 제공하고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "재보선이 치뤄지는 두곳 다 새누리당의 아성이라고는 합니다만 우리 민주당은 포기하지 않고 기죽지 않고 끝까지 오로지 국민을 위해 최선을 다해서 승리를 위해 최선을 다해 싸울 것입니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "육군은 즉각 총기 난사 사건의 원인 규명에 착수했으나 가해자인 최 씨의 자살로 진상을 확인하는 데 애를 먹는 것으로 알려졌다.",
+    "qps": 0.4,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 자위대의 집단자위권 행사 법률인 무력공격사태법에는 해당국 요청이나 동의 규정이 없다는 것이 문제라고 전문가들은 지적하고 있다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "디스크타입 반작용 스팀터빈은 간단하고 효율적인 구조 등에서 기존 블레이드 방식 스팀터빈과 차별화된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "특히 이영표의 경기 예측이 적중률 100%를 보이며 KBS 시청률은 상승세를 타기 시작했고 결국 한국-러시아 경기에서 1위를 차지했습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그동안 북한에 도발 중단 및 핵무기 개발 포기 등 '올바른 선택'을 촉구하면서 강력한 안보 태세를 강조해온 박 대통령이 사실상 처음으로 대화 쪽으로 선회한 것이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이에 따르면 통일준비위는 앞으로 통일준비를 위한 기본방향을 제시하고 제반분야별 통일준비 과제를 발굴, 연구하는 등의 기능을 담당하게 된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "중국 스마트폰 시장에서 삼성이 승승장구를 계속하는 반면, 애플이 추락세를 면치 못하고 있어 대조적이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 올해 고용에서 하반기 취업자 수 증가 폭이 상반기보다 큰 '상저하고' 형태를 띨 것이라던 정부 예측은 어긋나고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "5·16 군사정변 이후인 1963년 2월에는 반공정신, 경제적 효율성, 국민정신 등을 강조한 2차 교육과정이 제정돼 교과서의 종수를 제한하고 검인정 심사를 강화했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "회사는 광양시, 포항시, 환경부와 손잡고 이 달까지 모두 80세대에 이르는 서민가정의 슬레이트 지붕을 컬러 강판 지붕으로 무상 교체했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이 때문에 문 후보는 이날 모든 일정을 비운 채 TV토론 준비에 `올인'했고 안 후보도 방송기자클럽 초청토론회 외에는 다른 일정을 잡지 않고 토론에 대비했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 이런 생각에 크리스마스가 부담스럽게 느껴질 때도 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그런 A씨에게 공공외교 업무와는 무관한 가사 노동을 시킨 것은 '현장실습원이 맡은 업무를 수행하는 데 필요한 적절한 업무환경을 제공한다'는 실습원 운용 지침에도 어긋난다는 지적이 제기된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 전자과 출신인 김군이 상품 포장을 하는 업무에 제대로 적응하지 못하면서 문제가 불거졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "또 이계안 전의원님은 현대차 전문경영인을 지낸 분으로, 소중한 현장경험을 바탕으로 한 정책전문가로 손 꼽히는 분입니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "언니가 사실을 알까봐 잠자는 척하고 추행 행위가 계속 될 것이라는 것을 예상했는데도 적극 제지하지 않았기 때문에 강제추행이 아니란다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 대부분의 카드사가 발급할수록 적자가 나는 카드 상품을 출시해 회원들을 끌어들인 뒤 부가혜택을 무차별적으로 줄이는 수법을 써서 문제가 되고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "마침 청사 청소를 담당하는 용역원이 이 장면을 목격하고 이를 외교부와 청사관리소에 신고했으며, 곧바로 119구조대와 경찰에도 신고가 들어갔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "국토부는 고객 편의에 초점을 맞춰 업종 단순화·진입제도 개선·지입차량의 직영유도를 큰 방향으로 잡고 화물업계와 유통업계 등 당사자들이 참여한 포럼을 통해 개선방안을 논의해 6월 중 개선책을 발표한다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "평택해양경비안전서는 13일 오전 8시23분쯤 평택호에 뛰어든 여고생 강모(18)양과 송모(18)양 등 2명을 구조했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 보통 첫 휴가를 나온 이등병들은 이중 절반도 해보지 못한 채 아쉬움을 안고 자대로 복귀한다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 스스로 유죄를 인정한 10개 혐의만으로도 20년의 징역형을 선고받을 수 있으며, 린드 판사가 높은 형량을 적용할 경우 사실상의 종신형인 100년 이상의 징역형을 내릴 수도 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "특히 유엔 논의의 키를 쥔 중국도 이번에는 과거보다 적극적으로 논의에 참여할 수 있다는 관측이 나오고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 피해자 측이 용의자 가족 및 아파트 관리사무소를 상대로 손해배상청구에 나설 가능성이 높다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이어 여성은 상처로 인해 다시는 성관계를 가질 수 없을 것이라고 말하면서 화장실에 갈 때마다 쓰라림을 느낀다고 토로했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "여당은 국정원 선거개입에 대한 국정조사를 즉각 실시하라!",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 안타깝게도 지금 우리 사회 일부에서 북한 핵과 미사일 도발이라는 원인보다는 '북풍의혹’같은 각종 음모론이 제기되고 있는 것은 정말 가슴 아픈 현실이라 생각합니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "실제로 이번 정부의 역추적 관련 발표에서는 북한의 내부 IP와 공격 경유지 일부, 악성코드 소스프로그램 일부 등을 공개하는 등 과거보다 많은 증거 자료가 제시됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 대타 브랜던 크로퍼드를 좌익수 뜬 공으로 잡고서는 다저스의 샌프란시스코 3연전 전패를 막았다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "먼저, 금일 새벽에 있었던 김영훈(보루나) 선수의 부적절한 발언과 관련하여 e-스포츠 팬 분들과 천민기(피미르) 선수를 걱정하시는 모든 여러분들께 심려를 끼쳐드린 점에 대해 진에어 그린윙스 선수단과 사무국은 진심으로 고개 숙여 사과 드립니다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 인사청문회법상 경과보고서는 인사청문회를 마친 날부터 사흘 안에 국회의장에게 제출돼야 하는데다, 청와대가 야당의 요구를 수용할 가능성이 낮아 보여 보고서 채택은 사실상 무산됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "보건당국이 뎅기열을 우려하는 배경에는 국내 유입이 빠르게 증가하는 것이 영향을 미친 것으로 분석된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "해경의 몸집은 계속 커졌지만 해양안전에 대한 인력과 예산은 제대로 확보하지 않았고, 인명구조 훈련도 매우 부족했습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "북한이 소치올림픽에 불참함에 따라 대회 기간 남북 체육교류도 무산됐다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 군부의 발표 후에도 곳곳에서 친 무르시와 반 무르시 시위대의 충돌로 14명이 사망하고, 친 무르시 진영이 군부에 저항하겠다는 의지를 밝혀 혼란은 계속될 것으로 관측되고 있다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "아이의 뇌가 적절한 자극을 통해 변한다는 점은 특히 주목을 받고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 로스쿨들이 태도를 바꿔 등록금 인하는 어렵다는 입장을 보이면서 국비 지원은 어렵게 됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "코코엔터테인먼트 법률대리인 측은 코코엔터테인먼트를 대리하여 CEO 인 김씨를 업무상 횡령 혐의로 형사고소하였고, 김씨의 수년간 수억원의 횡령사실을 입증할 수 있는 증거자료를 영등포 경찰서에 제출하였습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 이제 어쩌면 그런 능력들은 더 이상 만화나 영화 속의 이야기도 아니고, 심리테스트의 질문도 아닙니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "결국 그의 메시지는 '노란 라인 뒤로 물러서자' 였다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "변호인은 유씨 동생 가려씨가 국정원 조사 과정에서 가혹 행위를 당한 끝에 이 사건 공소사실을 뒷받침하는 허위 진술을 했다며 유씨의 간첩 혐의가 무죄라고 거듭 강조했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "박 시장은 서울시 직원들과 인사를 나눈 후엔 바로 여름철 풍수해 대책회의를 소집, 선거운동 기간 강조했던 '안전 행보'를 이어나갔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "'까방권'은 '까임 방지권'이라는 의미로, 좋은 활동으로 다른 잘못에 대한 비난을 면제 받는 권리를 의미한다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "인간의 존엄성을 무너뜨리고, 수치심과 육체적 고통을 유발하는 폭력은 사라져야 한다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "한화는 이처럼 선수들이 삭발 투혼을 감행하며 연패 탈출을 위해 안간힘을 썼으나 결국 3-1의 리드를 지키지 못하고 연장 10회 승부 끝에 3-4로 역전패했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "24일 경남 거제시 대우조선해양 옥포조선소 2번 도크에서 건조 중이던 8만 4000톤급 LPG운반선에 불이 나 7시간여 만에 꺼졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "박경림의 오프닝 멘트 후 '두시의 데이트 박경림입니다' 홈페이지 'mini메세지'와 '신청곡' 게시판에는 박경림의 오프닝 멘트를 지적하는 글들이 이어졌는데요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "민·관·군 합동대응팀이 3.20 사이버테러를 역추적하면서 처음으로 북한의 인터넷프로토콜(IP)을 밝혀냄에 따라 과거 해킹도 북한이 저질렀다는 확실한 증거가 나온 셈이 됐다는 분석이 나오고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "상식적으로 법정 최대 근로시간이 1주일에 52시간이어야 하지만 현실은 그렇지가 않다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "지난해 12월 \\\"일본군 위안부 문제가 최종적, 불가역적으로 해결됐다”는 정부 발표에도 불구하고 과거사 문제는 여전히 진행중이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 해당 아파트 측은 '출입금지' 현수막을 내건 이유를 따로 언급하지 않아 궁금증을 자아냈다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 정부가 사명 변경을 강제하는 것은 현실적으로 불가능에 가깝고 대한항공이 스스로 이름을 바꾸지도 않을 것이라는 의견이 우세하다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "김 경사는 범행을 부인했지만 경찰은 통화내역 조회와 휴대전화 사진 복원, 이메일 분석 등으로 공모관계를 조사해왔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "남양주시청은 주택 소유자인 보아와 실질적 거주자인 아버지 권 모씨를 불법 구조 변경 행위로 경찰에 고발했다고 15일 밝혔습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "보도에 따르면 문건에는 현정부 비선실세로 항간에 회자되어온 정윤회 씨와 박근혜 대통령의 핵심측근인 3명의 비서가 청와대 내부 인사와 외부에서 만나 국정정보를 교류하고 김기춘 비서실장 등을 포함한 청와대 인사에 영향력을 행사하려 했다는 주장이 담겨있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "검찰은 청와대의 시설 및 예산을 관리하는 조 행정관이 직무와 관련해 채 군의 신상정보를 알 수 없는데다 가족관계를 확인할 필요성도 없다는 점에 주목하고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "일만 하는 남편 때문에 결혼한 지 4년이 넘었는데도 아이 가질 시간조차 없던 부부 사연이 알려졌다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "일본과 납치문제 재조사 등에 합의한 북한이 김 씨에 대해 무기노동교화형을 선고한 것은 인도적 문제로 남한에 압박을 가하려는 것이라는 분석도 나온다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 지난 달 20일 tvN '현장토크쇼 택시'에 출연한 이후 남편 A씨가 수배 중이라는 기사가 나와 논란이 불거졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "경찰은 사건 당일 B씨를 폭행 혐의로 검거했지만, B씨에 대한 조사를 벌인 후 혐의가 입증되면 폭행치사 혐의를 적용해 입건할 예정이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "원칙적으로는 영수증이 있어야 하지만 배송 전표만 있어도 교환이 가능하다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "경찰은 아들 강 일병이 화재 직전인 22일 오후 6시 40분쯤 집에 있었고 화재 직후인 이날 오후 6시 56분께 집에서 빠져나간 사실을 확인해 그를 용의자로 지목했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "수현, 기섭, 일라이, AJ, 훈, 케빈 남은 여섯 멤버들은 비록 동호와 함께 하지 못하지만 동호의 빈자리를 서로 함께 채워가며 10월 말 유키스의 새로운 앨범으로 팬 여러분들을 만날 예정입니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이런 초반 개표 추세가 마지막까지 이어질 경우 이른바 '성완종 악재'로 한때 전패 공포감이 감돌았던 새누리당은 '압승'을 선언하며 향후 정국 주도권을 장악할 수 있는 반면 새정치연합은 지도부 책임론 등 거센 '후폭풍'에 휩싸일 것으로 예상된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "국세청에 대한 기획재정위의 국감에서는 여야 의원 모두 지난해 지하경제양성화 추진 과정에서 무리한 과세가 적지 않았다고 지적했고, 안행위의 소방방재청 국감에선 여야 모두 소방공무원 처우 개선을 한 목소리로 요구했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "만약 이 문제가 장기화되면 주민들이 인질이 될 수도 있기 때문에 우려된다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "앞서 A씨는 서울특별시동작교육지원청 홈페이지에 야구감독 B씨의 성상납 요구 의혹을 제기하며 처벌을 요구했고, 동작교육지원청과 해당 학교는 주장 일부를 사실로 확인해 지난달에 B씨를 해임한 것으로 알려졌다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "긴급위원회는 한 나라에서 다른 나라로 전파될 우려가 크다는 판단을 내릴 경우PHEIC를 선언하고 여행 자제를 비롯 가능한 모든 조치를 취하도록 하는 권고안을 마거릿 챈 WHO 사무총장에게 제시하게 된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 한씨의 범행은 지난 5월 남편이 싱크대 서랍장에서 죽은 아이 시신을 발견하면서 알려졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "인권침해와 차별을 경동하는 보호관심병사의 제도 등 안일한 병역관리의 문제점을 지적하지 않을 수 없습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 러시아전이 열릴 쿠이아바로의 이동 시간 등을 고려하면 대표팀 앞에 놓인 훈련 시간은 불과 닷새로 턱없이 부족한 것이 현실이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 북한 김정은 체제의 최고 권력 실세로 알려진 장성택 국방위 부위원장 겸 당 행정부장은 이날 협의회 참석자 명단에 포함되지 않았다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "인권문제와 미사일 발사에 대한 미국의 강경대응을 명분삼아 사실상의 도발 수순을 밟기 시작했다는 관측이 나오는 까닭이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "3년 전인 2011년 재선거에서 '72표 차' 극적 승부를 펼친 새누리당 이순선(57) 후보와 새정치 최상기(59) 후보의 리턴 매치로 관심이 쏠렸던 인제군수 선거는 결국 현직 군수인 이 후보의 재선으로 막을 내렸다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 야당 다수인 시의회는 그동안 조례 개정을 강하게 반대해온 만큼 개정안을 의결할 가능성은 작을 것으로 전망된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 오히려 신중하게 행동하려고 했던 저의 생각이 마치 책임을 회피 하는 것 처럼 느껴지게 해드리고 오히려 실망과 논란을 가중시켜 드리는 것 같아 진심으로 송구스러울 따름입니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이 사고로 인명 피해는 없었으나 구조활동을 하는 동안 양방향 열차 운행이 20여분가량 지연됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "정부기관과 정당, 언론사 홈페이지가 해킹을 당한 지난 6월25일의 사이버공격에 일부 언론사의 업데이트 기능이 악용됐다는 분석이 나왔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "만찬 자리에서 이 문제가 또 한 번 거론됐고, 결국 폭행으로 이어졌다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "29일 금강제화에 따르면 올해 상반기 전국 주요도시 매장 4곳의 남성구두 판매량을 분석한 결과, 지역별로 판매순위 1위를 차지한 구두가 모두 달랐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "중국 충칭시의 한 가전제품 매장에서 손님들이 싸이의 '강남스타일' 때문에 노이로제에 걸렸다고 충칭천바오(重慶晨报)가 14일 전했다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이번에 바뀐 한글 의장명패는 서예가의 붓글씨 휘호를 바탕으로 하여 단아한 글씨체로 제작됐다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 방 자체에 문 잠그는게 없어서 약간 불안한 정도?",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 주인할머니께서 매우 배려심 넘치시고 사진과 같이 방이 예뻐요!",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "따라서 가족이 아닌 그룹 구성원이라면 화장실 사용이 불편할 수도 있는 상황입니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 약간 아쉬운점은 머리빗 등 기타용품은 없습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "호스트는 친절하고 필요한 것에 대한 도움을 즉각적으로 주는 편입니다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 위치와 구조상 집이 매우 시끄러우므로 소음에 민감하신 분들은 고려하십시오.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "관광지와 숙소간 거리가 애매하긴 하지만 호스트의 친절도는 최고입니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 숙소 주변에 성에 관련된 곳들이 많아 거리 분위기는 좋은편은 아닙니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "위치는 관광지에서 멀기는 하지만 마드리드 현지의 주택가 느낌을 만끽하기 좋았습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "처음 갔을 때 주변이 조금 무섭습니다만 나폴리에선 원래 이런 듯 합니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 처음에 알려준 주소로 숙소를 찾기가조금 어려웠습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "앞마당에서 희미하지만 그리피스 천문대와 할리우드 싸인이 보여요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 우리가 집에 없을 때 찾아오는 것이 조금 불편했습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 공용주방에서 조리를 할 수 없는 것이 좀 아쉬웠다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만, 개인이 사용하는 공간을 에어비앤비로 같이 사용하는 것이기 때문에 주방, 화장실, 침실 등에 대한 청결도 개선이 시급해보입니다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "계단이 많이 가파르기 때문에 짐을 풀기 위해서 운반하기에 어려움이 있을 겁니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 한가지 리스본 특성상 집으로가는 길에 계단이 많아요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "위치와 가격에 맞는 퀄리티를 보임 그러나 의사소통 및 젖은 수건이 실망하게 만듬.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그리고 킹스크로스 역으로 가는 버스가 집 앞에 있어서 정말 편해요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 호스트는 레스토랑에서 일을하기 때문에 연락이 안되는 시간이 있습니다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "번화가 인근이기 때문에 주요 관광지를 도보로 갈 수 있어요.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 짐 많으신 분들은 예약하실 때 조심하시는 게 좋을 것 같습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "숙소에 갈 때는 편한데 나중에 짐을 들고 역으로 다시 갈 때에는 택시를 이용하는 것도 좋을 듯 합니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "파리의 가장 중심지에 위치하고 있기 때문에 대부분 도보로 이동 가능해요.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "2박 이상을 생각하신다면 소음 때문에 숙고하시는 것을 권합니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 고양이가 있어서 예민하신 분은 피하시는 게 좋을 듯 합니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "공항버스 정류장이 5분도 안걸릴뿐만 아니라 주변 관광지나 유명한 맛집이랑도 다 가까워요.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 교통이 편리한대신 트램소리와 차소리가 있는편이에요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 숙소 민감하신 분들은 돈을 좀 주더라도 호텔에 머무시는게 나을 것입니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "아파트 전체를 렌트했기때문에 사생활보호를 받을 수 있었다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 샤워시설이 정말로 너무너무 작아서 샤워후에 물바다가 됩니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "알주니드 지하철역으로 가는 방향으로 음식점과 과일등 가게들이 있고 과일가게는 24시간 합니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 이곳보다 깨끗한 숙소는 없을 정도로 정말 완벽했던 곳이였습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "포르투갈이 경사가 있어서 처음 방문하실 때 짐이 있기 때문에 조금 힘드실 거예요.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "위치도 안전하고 전용 게이트를 지나기 때문에 매우 안전합니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만, 복도가 매우 좁아 짐을 옮기는 것이 불편합니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다운타운까지 가는 교통편은 우버나 버스로 가까운 메트로역으로 가서 메트로를 이용하는 것이 시간과 비용을 절약하는 방법입니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "프라이버시 보장은 되기는 하지만 방이 연결 되어 있는 관계로 호스트집에서 하는 모든 소리와 티비 소리는 다 듣깁니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 숙소는 둘이 쓰기에는 좁아서 혼자 쓰는 분에게 추천합니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 저에게는 혼자만의 작은 공간에서 쉴수있는 훌륭한 공간이었습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 체크인 과정에서 호스트가 큰 실수를 했던 점과 중심가에서 거리가 조금 있다는게 아쉽네요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  }
+]

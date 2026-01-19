@@ -1,0 +1,5150 @@
+[
+  {
+    "sentence": "따라서 부친 <신:PS> 총괄회장에게까지 <신동빈:PS> 회장이 '반기'를 든 상황에서 <신:PS> 회장을 뺀 채 작금의 <롯데그룹:OG> 사태에 대한 논의가 이뤄질 가능성을 배제할 수 없어 보인다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "시간이 지나도 사라지지않는 가슴이 먹먹한 여운 때문에'이건 그냥 꾸며낸 얘기야.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<4일:DT> <오전 1시 19분:TI> <여수 거문도:LC> 남동쪽 공해상에서 항해 중이던 <몽골:LC> 선적 <4천300t:QT>급 화물선 '그랜드포춘<1호:QT>'가 침몰해 <북한:LC> 선원 <16명:QT> 가운데 <3명:QT>은 구조됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<멜리사 멘체스터:PS>의 노래만 좋을 뿐 결국은 불륜영화일뿐...",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "대선 후보 TV토론이 끝난 직후 <경찰:OG>이 갑작스럽게 중간 수사결과라는 이름으로 수사내용을 공표한 것은 TV토론에서 <새누리당:OG> <박근혜:PS> 후보가 밀린 것을 만회하려는 불순한 의도가 담겼다고 주장했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<지난 15일:DT> <밤 9시:TI>경 파업으로 인해 대체 투입된 <19살:QT>, <한국 교통대 철도대학:OG> 재학생이 운행하던 지하철 <4호선:QT>에서 <80대:QT> 여성이 숨지는 사고가 발생해 논란이 일었습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<케리:PS> 장관은 <이날:DT> <오후:TI> <워싱턴DC 국무부 청사:LC>에서 <윤병세:PS> 외교부 장관과 <첫번째:QT> 회담을 열어 <북:OG>핵 문제 등 양국 현안을 논의한 뒤 개최한 공동 기자회견에서 이같이 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 차적 조회를 해봤더니 <김:PS> 씨가 몰고다니던 승용차와 차종이 일치했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이는 <지난주:DT> <북한:LC>이 사거리 <300㎞:QT> 이상의 스커드-B 미사일 <4발:QT>을 발사한 직후의 반응과는 분명히 달라진 것으로 평가된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "영화 똥개, 색즉시공<2:QT> 에서도 맛깔 나는 사투리 연기를 보여 준 <홍지영:PS>와 따뜻함과 신뢰감 주는 <유오성:PS>이 기억에 남음.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<동양:OG>사태를 촉발시킨 <동양증권:OG>이 오는 <30일:DT>부터 <내달 3일:DT>까지 희망퇴직을 접수받아 <500명:QT> 이상을 감원한다는 목표로 구조조정을 할 것으로 알려졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "반면 보수대연합 측은 모임 당시 식당 측이 단 <3명:QT>의 서빙 직원만 배치, 우파 운동가들과 미디어워치 직원들이 직접 서빙을 해야했다고 주장했습니다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <줄리앤 무어:PS>와 배우들의 연기는 소름이 끼칠정도다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<중국 베이징:LC>(<北京:LC>)에서 <공산당:OG> 집권 이래 최초로 당국이 공식 허용한 시위성 집회가 이뤄져 주목을 끌었다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<허:PS> 씨와 주변 상인 증언을 종합하면, <종교빌딩:LC> 자리는 <1980년대 초반:DT> <과천 신도시:LC>가 개발되면서 종교 부지로 배정됐다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<플린:PS>의 외도에 깜짝놀랐지만 ㅠㅠ 결국 돌아온 그 ㅋㅋ 난 <플린:PS>이 좋아 ♡",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 논란의 중심은 갈수록 <바스코:PS>!<14년동안:DT> 힙합한 사람이 애들하고 뭐하는 짓인지??",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<검경 합동수사본부:OG>가 카카오톡을 토대로 여객선 세월호 침몰 상황을 재구성하고 있다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<김경도:PS>는 시야가 넓고 패스와 전술적 움직임이 좋으며, 공격 파괴력까지 지녀 <중국:LC> 축구계가 주목하고 있다고 <길림신문:OG>은 전했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "오히려 우정출연한 <김지우:PS>와 <이범수:PS>가 더 기억에 남음",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이 때문에 보호관찰소에 불안감을 넘어 공포감을 느끼는 <분당:LC>주민들의 반발과 항의가 심각합니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 이마저도 배우 섭외 등이 뜻대로 되지 않으면서 <지난해:DT> <강남구 역삼동:LC>에 기획사 사무실을 차려놓고 영업이사 <김:PS>씨와 범행을 공모한 것으로 드러났다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 <46억년전:DT> <23.5도:QT>로 기울어졌다는 말은 믿기 힘듬.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "어떤 의도와 방향으로 만들었는지는 알겠다만,, 이 정도로 정신산만하게 다른인생들을 겹쳐서 보여주면서까지 만들어야 했을까,, 깔끔하게 만들었으면 <9점:QT>은 받았을 영화",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "개별급여 개편으로 약 <14만명:QT>이 추가로 급여 혜택을 볼 수 있게 됐지만, <정부:OG>가 수급대상자를 실제보다 적게 추계해 예산이 부족할 수 있다는 지적도 나왔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "어이없던게 당시의 형사(눈째진사람)<삼풍:OG> 에피소드 얘기하는데 처참한 비극 이야기인데 마치 재밌는 일였다는듯이 인터뷰한다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<9일:DT> <런민넷:OG>(<人民網:OG>)은 <1자녀:QT> 정책을 견지하는 <중국:LC>에서 소문대로 <장이머우:PS>가 <일곱 자녀:QT>를 둔 것이 밝혀지면 거액의 벌금을 물게 될 것이라고 지적했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "국내 가맹점에서 신용카드 결제액이 <50만원:QT>을 초과할 경우 신분증을 제시하도록 한 조항은 금융사고를 방지하고 소비자 피해를 최소화하려는 방안으로 보인다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "특히 <푸틴:PS>이나 <러시아:LC> 대기업에서 <안현수:PS>를 위해 통큰 선물이 있을 것이라는 관측이 나오고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "역대 <제시카비엘:PS>이 나온 영화중에 젤로 예쁘게 나왔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "남들은 <2002년:DT> <히딩크:PS> 신화를 말하지만..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "조선마술사' 언론 시사회장의 <고아라:PS>, <조윤희:PS> 씨 사진 <7장:QT>이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "항공기는 공항 인근 마을인 <후:PS>씨 지역에 곤두박질쳤으며, 이로 인해 민가 <두 채:QT>에 화재가 발생했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<가르시아:PS> 뿐만 아니라 주옥같은 작품들을 모아놨습니다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "무엇보다도 역순으로 전개되는 시간진행과 <다섯가지:QT> 다른시점으로 보는 관점은",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 수도권 지방을 중심으로 미세먼지 농도가 '약간 나쁨'(<81∼120㎍/㎥:QT>) 수준까지 오를 것으로 전망돼 노약자나 호흡기 질환자는 유의해야 한다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "개정안에 따르면 <충남:LC>지역 학원과 교습소는 학생이나 학부모가 학원비를 쉽게 알아볼 수 있도록 실내뿐만 아니라 건물 주 출입구와 보조 출입구에 게시해야 한다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하는거 대박 유치함 소재 괜찮고 액션신 볼만하지만 과대평가된 면이 있어서 <1점:QT> 준다",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG>은 가장 많은 위폐가 적발된 <5000원권:QT>의 경우 구권이 은선이나 홀로그램 등 위조 방지장치가 취약해 상대적으로 많은 것으로 분석했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이러한 <박:PS> 대통령의 언급은 <북한:OG>의 <연평도:LC> 포격과 천안함 침몰을 옹호하는 듯한 <천주교 정의구현사제단 전주교구:OG> 소속 <박창신:PS> 원로신부의 최근 발언을 겨냥한 비판으로 해석된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "해당 휴대폰은 <중국 심천:LC>(<深圳:LC>)에서 만들어졌으며, 다양한 기능을 갖추고도 저렴한 가격 때문에 현지 노동자들을 포함한 많은 사람들이 사용하고 있다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "전반 이른 시간에 <두 골:QT>을 헌납한 <스위스:OG>는 만회골을 넣기 위해 총공세에 나섰지만 결과적으로 <프랑스:OG>에 더 많은 기회를 제공하는 결과를 가져왔다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "넘 현실적이어서 씁쓸하긴 하지만 <18여년:DT>의 시간과 함께 세월의 무게와 가치를 느끼게 하는 이런 영화를 앞으로도 볼 수 있을까?",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG>은 도주로를 차단하고서 테이저 건으로 응수하며 승용차를 덮쳐 결국 <조:PS> 씨를 붙잡았다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <3∼5번째:QT> 시리즈에서 명중 <4개:QT>씩 기록해 <2위:QT>까지 올라섰다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 금융위기가 진정된 <2010년:DT>에 <44억8천800만달러:QT>를 기록한 데 이어 <2011년:DT>엔 <43억8천950만달러:QT>로 감소했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<김성룡:PS> <9단:QT>은 알파고가 어느 시점에 바둑을 두는지에 대한 '결행'과 상대방이 수를 알 수 없도록 두텁게 두는 부분에서 <이창호:PS> <9단:QT>과 유사하다고 강조했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "반면 이 <수퍼맨:PS>리턴즈가 <7년후:DT> 영화인 맨오브보다 제작비도 많이쓰고 악역에 <렉스루터:PS>를 쓰고도 재미없긴힘들거다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이순:PS>과 <장옥정:PS>의 슬프지만 아름다운 사랑!<장희빈:PS>을 새로운 관점에서 바라보게된 좋은 드라마였습니다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "특정 가정의 이야기지만, 보편적인 인간과 가족들에 대한 이야기를 전달하는 <오즈 야스지로:PS>의 힘",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이날:DT> <정의당:OG>은 <7000여 명:QT>이 당 대표 결선에 참여한 결과 기호 <2번:QT> <심상정:PS> 후보가 <3600여 표:QT>를 얻어 <3300여 표:QT>를 얻은 <노회찬:PS> 후보를 제치고 당 대표에 선출됐다고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "주문을 받는 즉시 만들기 때문에 대기 시간이 길지만, <한 번:QT> 먹으면 또 생각나 찾게 되는 메뉴다.",
+    "qps": 0.45,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그는 '<비버리힐즈:LC>의 아이들'에서 뛰어난 연기를 선보여 <할리우드:LC>의 주목받는 스타로 떠올랐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "호감으로 시작했던 여행, 복잡했던 과정은 잊고 좋았던 기억만 가져가려는 이기심.결국 여행을 마치려는 <공항:LC>에서, 사랑을 끝내려는 다짐 앞에서, 다시 만날 약속을 하려는 재회는 왜 이리 슬프고 현실은 왜 이리 냉혹한가.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이날:DT> <오전:TI> <김:PS> 씨가 아내의 빚보증 때문에 재산 가압류 통보를 받았다는 소식이 전해지며 그의 과거 방송 내용이 SNS에서 재차 관심을 모으고 있다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<90년대 이후:DT> 로 중국 무협은 더이상 희망이 없다는 사실을 확인해준 영화",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<굿네이버스:OG> 홍보대사로 <아프리카:LC>에서 봉사활동을 하고 시사회 수익금을 기부하는 등 선행 활동을 해온 온 <고아라:PS>도 포함됐습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "어설픈 감독의 연출..;; 이쁜 <로라 램지:PS> 때문에 별 <하나:QT>.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "내가 왜 주인공이 <1년전:DT>에 저지른 실수때문에 자기 인생 말아먹는 <1시간 반:TI>을 전화통 붙잡고 있는것만 봐야하는거지..",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이에 비춰볼 때 <유카와 하루나:PS>(<湯川遙菜:PS>·<42:QT>) 씨와 <고토 겐지:PS>(<後藤健二:PS>·<47:QT>) 씨 등 일본인 인질을 억류한 세력이 요구한 금액(<1인:QT>당 <1억 달러:QT>)은 이례적으로 액수가 크며 자금 확보보다는 선전 효과를 노린 것이라는 분석도 나온다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "명성때문에 봤는데 진짜 포스터만보면 <B급:QT>영환줄 ..",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<스타맨:PS> 그리고 우주인간 <제시:PS> <하나:QT>더 afkn 에서 한거 기억 안나지만 젤 좋았슴",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "만일 지금 <장혁:PS> <신민아:PS> <권상우:PS> <공효진:PS> <김수로:PS> <허준호:PS> <변희봉:PS> ㅡ 그때니까 이렇게 찍지 지금은 몸값도 무시못하지만 이들을 모으기도 어려울거다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 국내 환경단체들은 이번 행사가 진행되는 지역이 <2011년:DT> '<3·11:DT> 동일본 대지진' 당시 <후쿠시마:LC> 제1원전의 원자로가 파괴되면서 방사성 물질이 대량 유출된 지역에서 불과 <60㎞:QT> 떨어져 있지 않은 곳이라며 일정을 보류할 것을 주장했다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<황:PS> 대표의 이번 제안은 <김한길:PS> 대표의 제안에 대해 응답하는 성격이긴 하지만 '조건 없이'라는 전제를 달았다는 점에서 역제안 성격도 띠고 있다는 분석이다.",
+    "qps": 0.6,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<1932년 5월 1일:DT> <아사히 신문:OG>에 보도된 연행사진은 <1976년:DT> 보물로 지정됐으나 체포된 사람이 <윤봉길:PS> 의사와 닮지 않았다는 지적이 나오면서 진위 논란이 일었고, 이런 와중에 <2008년 4월:DT> 보물에서 해제됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<홍길동:PS> 시리즈는 이제 보니까 전설이었구나 하지만 <3편:QT>의 캐릭터와 스토리는 영 씁쓸하다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "특히 <피케티:PS>의 주장과 달리 <한국:LC>은 경제성장률과 상관없이 자본 대비 소득의 비율이 꾸준히 상승했는데도 자본소득 분배율은 하락해 소득분배가 개선돼 왔다고 <오:PS> 교수는 주장했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<올해 1분기:DT> <롯데마트:OG>의 <2단:QT> 우산과 <3단:QT> 우산 매출은 <지난해:DT> 같은 기간보다 각각 <29%:QT>와 <18%:QT>씩 급감했지만 장우산 매출은 반대로 <18%:QT> 증가했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <20대:QT>가 되고나서 그시절 왜 <장국영:PS>, <왕조현:PS>이 넘사벽인지 이영화를 보고 느꼈다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "VR(가상현실) 기기인 <구글:OG> 카드보드, <삼성:OG> 기어 VR을 이용하면 더 실감나게 <배트맨:PS> 집을 볼 수 있다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<애플:OG>이 <미국 법무부:OG>가 <삼성전자:OG>를 상대로 표준특허의 남용에 따른 반독점법 위반 혐의에 대한 조사를 진행 중이라고 주장했다고 지적재산권 전문 블로그인 <포스페이턴츠:OG>가 <23일:DT>(현지시간) 전했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "시사회인데도 <두시간:TI>을 땅에 버린것같아서 빡쳤음 무슨 단편영화 모음집마냥 뚝뚝 끊기는 전개랑 하이틴로코찍는 남주와 여주",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<교육부:OG> 안팎에서는 최근 굵직하고 민감한 교육 정책을 <김재춘:PS> <교육부:OG> 차관이 잇따라 발표했던 점을 들어 다른 고위간부가 국정화를 발표한 가능성도 있다는 관측이 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "따라서 <셰릴:PS>의 생일은 '<18일:DT>', '<19일:DT>'과 같이 <10가지:QT> 케이스에서 단 <한 번:QT>씩만 들어간 날짜가 있는 달에 있지 않다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<김경란:PS>씨는 사실 여태껏 앞에 나서는 모습이 방송에 거의 나오지 않았기 때문에 최후의 <3인:QT>에 들었을 때 의문이 들었지만 데쓰매치를 보고 놀랐습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이와 관련, <일본 정부:OG>는 <자위대:OG>의 <한반도:LC> 진출은 <한국 정부:OG>의 요청과 동의가 있어야 한다고 주장하고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이제는 <지아:PS>의 인사도 들리지 않는거냐”라고 타박해 보는 이들의 웃음을 유발했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "일부 SNS 이용자들은 양동이에 담긴 엄청난 액체의 양에 '정말 모유가 맞느냐'며 의심의 눈초리를 보냈지만 <올리비아 와일드:PS>는 <지난 4월:DT> 아들 <오티스:PS>를 출산했기 때문에 설왕설래가 오갔다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이날:DT> 사상자 수를 집계한 <사우디 민방위 당국:OG>은 트위터를 통해 크레인 붕괴 후 긴급구조팀들이 사고현장에 급파됐다고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<아멜리에:PS>를 둘러싸고 있는 환경은 어쩌면 매우 평범하지만 그안에 있는 <아멜리에:PS>가 너무 사랑스러워 모든 것을 특별하게, 마치 동화처럼 만들어주는 느낌이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG>은 용의자를 특정해 혐의사실이 입증되면 이 택시기사에게 감금 혐의를 적용할 수 있을 것으로 보고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "너무 잘생긴 <연걸:PS>님을 볼 수 있음ㅠㅠ♥ 제작사가 망하지만 않았어도 <2탄:QT>이 나왔을텐데???아쉬우면서도 재미있는 영화!!",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<김기덕:PS> 감독의 영화를 좋아하지만, 이 영화는 좀 아니다..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "최근 <3연승:QT>을 거둔 <다저스:OG>가 결국 <2-3:QT>으로 져 앞선 <22차례:QT> 선발 등판에서 <13승 5:QT>패를 기록한 <류현진:PS>은 시즌 <6패:QT>째를 떠안았다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "취업포털 <사람인:OG>은 공공기관 경영정보 공개시스템 알리오에 공시된 <30개:QT> 공기업(준정부기관·기타공공기관 제외)의 <2013년:DT> 경영공시자료를 분석한 결과 <인천국제공항공사:OG> 초임이 <3천962만원:QT>으로 가장 높았다고 <7일:DT> 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<민주통합당:OG> <문재인:PS>, 무소속 <안철수:PS> 대선 후보간 단일화 협상이 <20일:DT> 여론조사 방식을 둘러싼 양측의 입장차 등으로 합의 도출에 실패하는 등 극심한 진통을 겪었다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "결국 <조:PS> 전 부사장은 이번 논란으로 <인하대:OG> 이사직과 함께 <칼호텔네트워크:OG>, <한진관광:OG> 등 <대한항공:OG> 계열사 대표이사 자리를 내놓으며 사실상 <한진그룹:OG>과 관련된 모든 보직에서 물러났다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "종교영화라는관점을 내려놓아도, <예수:PS>의 희생과 자신을 조롱하고죽인 자들을 사랑하고 그들을 위해 기도했다는것만으로도 이미 <예수:PS>는 성인군자라는것이다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 원작에 충실하고 명연기 <손오공:PS>머리가 정말 쩐다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG>과 <119 구조대:OG>가 집 안으로 들어갔을 당시 악취가 진동했고, 작은방에 있던 높이 <80cm:QT>, 지름 <84cm:QT>의 고무통 안에 남자 시신 <2구:QT>가 들어 있었다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <영국:LC>의 양조장은 은행 잔금이 <우리나라:LC> 돈으로 약 <150만원:QT>에 불과해 파산하게 생겼다고 하네요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "스테로이드로 시작한 영화는 곧 미국인들의 바디이미지에 대한 집착, 건강보조제와 약물복용에 대한 주제, 그리고 <3형제:QT>의 각자 인생에 대한 관점까지를 부드럽게 포괄한다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <장위안:PS>은 다른 학원과 새로운 계약을 맺었고 <A어학원:OG> 측은 억울함을 호소했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<11일:DT> <노컷뉴스:OG>는 <검찰:OG>이 <A:PS>씨 자택을 수사하는 과정에서 제삼자의 것으로 추정되는 주사를 확보했음에도 불구하고 해당 주사기 사용자 신원을 확보하지 않은 채 <A:PS>씨만 기소하는 데 그쳤다고 보도했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<2시간 40분:TI>이란 긴 시간임에도 불구하고 계속 몰입하게 만든 웰메이드 스릴러.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<문성근:PS>씨 웅변하고 그러는거 생각해보면 연기뿐만 아니라 실생활에서도 영화같이 행동할거 같음 ㅇㅇ",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<장동권:PS> 때문에 <1점:QT> 줄려다가 <장쯔이:PS> <방백지:PS>떄문에 <10점:QT> 줘야겠다!",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그런데, <IBM:OG>에서 주장하는 내용은 우리를 다시 한 번 놀랍게 하네요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG>은 <마포:LC>대교 근처를 지나던 행인이 <A:PS>씨가 <한강:LC>으로 투신하는 모습을 보고 <119구조대:OG>에 신고했지만 구조 당시 <A:PS>씨는 이미 숨져 있었다고 전했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "왜 <하연주:PS>를 네가 설득해”라고 <오현민:PS>을 지적했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<새누리당:OG>은 종합유선방송사업자(SO) 업무를 <미래창조과학부:OG>로 옮기고 방송장악 우려를 불식시키는 대책을, <민주당:OG>은 SO를 <방송통신위원회:OG>에 남기되 'ICT(정보통신기술)진흥특별법'을 제정하는 방안을 각각 대안으로 제시할 것으로 알려졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "영화를 보는것만으로도 마음의 휴가를 다녀온 느낌.소박하지고 잔잔하지만 지루하지않은..그래서 다시 보고싶은 영화.햇살가득한 <비이:PS>의 부엌과 요리도 인상적",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "데뷔 <17년:DT>을 맞이한 가수 <홍경민:PS>이 해금연주자 <김유나:PS> (<28:QT>)씨와 결혼을 전제로 교제하고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<네사람:QT>의 <1년:DT>으로 인해 전 <105분동안:TI> 감동과 ,잊고있었던 무언가를 결심하게 해준 영화네요.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "내용은<7점:QT> 하지만 어린배우 <아오이유우:PS>의 연기 소화력은 <10점:QT>",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<자나:PS>는 완벽한 몸매를 유지하기 위해 엄격한 식이요법과 운동을 병행하지만 <매일:DT> 조금씩 초콜릿을 먹는다고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<UCLA:OG>는 <미국 캘리포니아 로스앤젤레스:LC>에 있는 공립대학교로 <미국:OG> 대학 평가 <10위권:QT> 안에 드는 명문대학으로 <NS윤지:PS>는 <UCLA:OG> 무용학, 커뮤니케이션학 학사 휴학 중인 것으로 알려져 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<A:PS>씨는 <10월 말:DT>부터 <지난달:DT>까지 자신이 일하는 <인천시 계산동:LC>의 한 편의점에서 판매할 <500원:QT>짜리 즉석복권을 미리 긁어본 뒤 당첨되지 않은 복권 <18장:QT>을 손님 <B:PS>(<22:QT>)씨에게 판매한 혐의를 받고 있다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "전작을 뛰어넘진 못하지만 음악성 <하나:QT>만으로도 모두를 매혹시킬 수 있는 영화.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<전 원내대표:PS>의 공동발의 제안에 대해 <정의당:OG>과 <안:PS> 의원측도 긍정적 입장을 밝힘에 따라 연석회의내 TF를 통해 야권 단일안 마련 작업이 탄력을 받게 될 것으로 점쳐진다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "국내 <세 번째:QT> 중동호흡기증후군(MERS·메르스) 환자인 <76세:QT> 남성의 <40대:QT> 딸에게도 발열 증상이 나타났으나 별다른 조치 없이 되돌려 보냈다는 지적에 대해 <보건당국:OG>이 해명에 나섰다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<어제:DT> 이색시사회 갔었는데 리얼한 좀비분장 너무 재밌었습니다!",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<A:PS>씨는 당황과 분노 속에 꽁초를 던진 사람을 확인하려 했으나 찾지 못했고, 결국 <경찰:OG>에 신고했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<제니퍼 애니스톤:PS>을 좋아하기는 하지만 영화는 글쎄.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<김태수:PS> <기상청:OG> 통보관은 <17일:DT> <KTV:OG>와의 전화인터뷰에서 \"현재 사고 해역의 풍향은 초속 <7-12m:QT>로 구조자를 포함한 해상구조 활동에 어려움이 있을 것”이라 말했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<일제시대:DT>를 너무 가볍게 만드는 드라마 <4회:QT>보고 그만뒀다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<마이니치(每日)신문:OG>은 <메르켈:PS> 총리가 <독일:OG>이 전후 <나치:OG>의 행위에 관해 대응한 것을 언급한 외에 회담에서 전후 <70년:DT>에 관한 논의가 없었으며 이는 역사 문제를 둘러싼 <한국:OG>과 <일본:OG>, <중국:OG>과 <일본:OG>의 대립과 거리를 두려는 것이라고 풀이했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<2001년:DT> <한국:LC> 영화 생각하면, 이 작품은 지나치게 평가절하되어 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "요새 <일본:OG> 하는 짓 때문에 볼 때 중간중간 피해자 코스프레 아니냐 라는 생각과 그만 볼까 하는 생각이 들었지만 끝까지 보고 나니까 이 영화는 그런 생각을 조금이라도 버리고 봐야할 것 같다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <재판부:OG>는 <김:PS>씨 주장을 받아들이지 않았다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 이후 <북:OG>측은 우리 측 당국이 민간의 실무접촉에 개입해 공동행사의 장소 문제에 대해 '지령'을 내리고 있다며 우리 측을 비난한 뒤 연이은 우리 측의 실무접촉 재개 제의를 거부한 바 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만, 이번 행사와 <MBC:OG> 진짜사나이의 <2함대사령부:OG> 촬영이 같이 이뤄지면서 초청강사와 초대가수를 <MBC:OG>에서 섭외했습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<랜드루:PS> 후보가 <42.1%:QT>로 <1위:QT>를 하기는 했으나 공화당 <두 후보:QT>가 나머지 표를 나눠 가졌기 때문에 결선투표에서는 <공화당:OG> 지지표가 결집해 <캐시디:PS> 후보가 승리할 가능성이 크다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <중국 이케아점:LC> 고객이 다른 나라보다 <40%:QT> 이상 늘어나는 등 <중국:LC> 내에서 <이케아:OG> 인기가 치솟으면서 몰려드는 손님 대응이 더 어려워졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 앞으로는 은행권과 마찬가지로 카드 신용 등급 체계를 <10등급:QT>으로 재분류해 현금서비스, 카드론, 리볼빙, 할부 등의 대출 금리를 일목요연하게 공시할 예정이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<연합뉴스:OG> 의뢰로 <하이투자증권:OG>이 <마우나오션개발:OG>의 주당순자산가치(BPS)를 산출한 결과, BPS는 <2006년:DT> <4천253원:QT>에서 <2011년:DT> <4천244원:QT>으로 오히려 소폭 떨어졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그나마 회를 거듭 할 수록 나아지는 <김혜선:PS>씨 연기로 인해 이 드라마가 생명을 유지하는듯 하네요....",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<손연재:PS>는 <2013년:DT> <우즈베키스탄:LC> 아시아선수권에서 개인종합을 비롯해 금메달 <3개:QT>와 은메달 <1개:QT>를 목에 걸며 일취월장했고 <2014년:DT> <리스본:LC> 월드컵에서 <4관왕:QT>을 차지하며 절정의 기량을 보였다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<EBS:OG> <한국:LC>영화 특선을 사랑하는 이유, 어려웠던 시절임에도 불구하고 착하게 열심히 사는 주인공 <윤복이:PS>와 선생님이 행복해졌으면 좋겠어요, <84년:DT> 영화인데도 성우가 대신 연기를 했었다는 점이 재밌었슴",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "무슨 영환지 모르고 <박해일:PS>이 나온다는 이유로 보게됬는데, 우리나라의 현실에 대해 시사하는 바가 많은 영화였다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "드라마는 보고싶은데 <김혜선:PS>씨와 <주나:PS>역하는 사람 발연기때문에 보는 내내 머씹은표정으로 보다가 입모양새 고치곤 합니다 ㅡㅡ",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG>은 이 같은 진술을 뒷받침할 수 있는 아동 피해자를 찾고, 관련 증거를 모아 원장 <민:PS>씨의 범죄혐의를 입증하는 데 주력하는 것으로 알려졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "한편 <정의화:PS> <국회:OG>의장은 <116억5318만원:QT>의 재산을 보유하고 있었으며 이는 <지난해:DT>보다 <11억4784만원:QT> 증가한 수치다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<7년전:DT>쯤에 봤음에도 불구하고 내용이 생생하게 남아있어요",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG> 측은 <소방당국:OG>에 구조된 <신:PS>씨는 다행히 가벼운 타박상만을 입었다고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <이세돌:PS>은 우상귀에서 뻗어 나온 알파고의 돌을 공격하면서 중앙에 세력을 쌓았고 좌하귀에 양걸침을 하면서 포인트를 만회했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만, 우연한 기회에 발을 들여 놓은 <강원랜드 카지노:OG>는 <A:PS>씨의 삶을 송두리째 빼앗아갔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "게다가 <A:PS>씨는 <2∼3일:DT>씩 잠을 재우지 않는 것은 다반사였고, <A4:QT>용지 박스 등 무거운 것을 드는 체벌을 시키고는 벌을 제대로 서는 지 인터넷 방송인 아프리카TV로 실시간 확인까지 했다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<국토부:OG>는 <이날:DT> <오후:TI> <서울고속버스터미널:LC> 대회의실에서 <맹성규:PS> 교통물류실장 주재로 <전국버스운송사업조합연합회:OG>, <전국고속버스운송사업조합:OG>, <전국전세버스운송사업조합연합회:OG> 등 운수단체 대표들과 사업용 대형버스 안전대책회의를 개최하고 이 같은 안전 강화대책을 논의했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만, 이 과정에서 그룹별 지원자 비율에 맞춰 선발자를 뽑기 때문에 성적의 높고 낮음과는 상관없이 같은 기회가 보장된다는 게 <병무청:OG>의 설명이다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<로버트 패틴슨:PS>때문에 보게되고 <크리스티나 리치:PS>만 마음속에 남는다",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 공장 사정이 나빠 <넉 달 전:DT>부터는 월급이 나오지 않았다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <국토부:OG>는 이 같은 내용을 기본계획에 반영하지 않은 것으로 알려졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "사실 약 <8점:QT> 정도라고 생각하지만 영화 평가가 너무 낮아서 좀 더 주고 갑니다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<윤채영:PS>은 <지난 2010년:DT> <김지운:PS> 감독의 '악마를 보았다'에 간호사 역으로 출연했습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "제빵왕 <김탁구:PS>만 과대 평가 받았음.시청률만 따져거는 안돼지??????",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "현재 <윈린과학기술대학교:OG> 연구팀은 <대만:LC>에서 특허 신청 중이며, 앞으로 다른 나라 영아의 울음소리 정보를 분석해 서비스 지역을 확대해 나갈 계획이라고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이 자살 예보시스템의 가장 큰 특징은 약 <1억5천만건:QT>에 달하는 SNS 기반의 실시간 빅데이터 분석자료와 그동안 자살과 연관이 있다고 알려진 물가, 실업률, 주가지수, 일조량, 기온, 유명인 자살(<베르테르:PS> 효과) 등의 요인을 총 망라했다는 점이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "반면, 반대 측은 지역 주민의 반발과 <국회 예산정책처:OG>가 <월성:LC> <1호기:QT>·<고리:LC> <1호기:QT> 폐로 후에도 전력수급에 영향이 없을 것이라고 밝힌 점, '계속 운전시 안전성 보장이 어렵다'는 <스트레스테스트 민간검증단:OG>의 지적 등을 들어 원전 폐쇄를 요구해왔다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "과소평가된 영화같음 깨알같은 <장항준:PS> 등장(간신,이간,약올리는 연기 잘함 ㅋㅋ) 재밌는요소도 많고",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "태극전사팀 첫 경기인 <러시아:LC>전이 열릴 <17일:DT>의 <쿠이아바:LC> 날씨는 과연 누구 편일까.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<정성일:PS> 선배이기 때문에 진실은 묻어 버리고 납득 불가능한 관대함으로 무장한 영화평론가들이여 각성하시길.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "지네 멋대로 영화 하지만 <장백지:PS>가 이뻐서 <3점:QT>~",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "각종 부양책에도 경기가 살아나지 않자 <중국:OG>이 환율 카드까지 내놨다는 관측이 나왔기 때문이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<베컴:PS>은 주장 완장을 차고 선발로 그라운드를 밟았습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG>은 <허:PS>씨가 동료들과 술을 마셨다고 진술한 것을 토대로 뒤늦게 검거된 음주운전 사범에게 적용하는 위드마크 공식을 이용했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "개인적으로 <8.5점:QT> 정도 주고 싶은 영화인데 좋은 영화임에도 불구하고 평점이 너무 낮아서 <10점:QT> 줌.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "굳굳 <러셀크로우:PS>때문에 봤는데 역시 <두배우:QT> 다 최고",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <작년:DT> 조사에서 <플린트:LC>의 <5세:QT> 이하 어린이들의 혈중 납 수치가 <1년:DT> 만에 <2배:QT> 증가하는 등 부작용이 확인돼 환경단체와 언론의 비판이 쏟아졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<3기가:QT> 까지 나온 현재 인간의 고뇌와 자아찾기, 범죄 의 지속성 빠지는것없는 작품.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <경찰:OG>은 성접대 피해 여성들과 <원주:LC> 별장 출입자들의 진술, 별장에서 촬영된 이른바 '성접대 동영상', 압수수색으로 확보한 <윤:PS>씨의 수첩 등 관련 증거를 토대로 <윤:PS>씨가 유력인사들을 성접대한 사실이 있다고 결론내렸다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<영호충:PS>이라는 걸출한 인물이 결국 <강호:PS>의 이상형이며 <강호:PS>의 최강자일지도.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "원래 정답을 맞혔던 수험생 <460명:QT>은 평가원장을 상대로 복수정답인정처분 취소 청구소송을 냈지만, 기각됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이는 '허위·장난 신고에 대해 엄정하게 처벌한다'는 <사법당국:OG>의 방침이 자리 잡았기 때문으로 분석된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그냥 좋고 만족하고 자기가 행복하면 <10점:QT> 주는거다 평가관이 아니기에 <10점:QT>을 줄 수 있는거다..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<바티칸:LC>을 한번 가본 입장에선 너무 실망..<바티칸:LC>에 사람이 너무 많아 제대로 보기 힘들기 때문에 영화로 내심 기대했는 데 절반의 반도 영화로 보여지질 않았다..",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이는 장거리 운전시 총 운전시간과 관계없이 휴게소나 졸음쉼터에서 쉬는 횟수가 <2∼3회:QT>로 비슷하기 때문에 장거리 운전을 할수록 휴식주기가 길어지기 때문으로 분석됐다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "세월호 국정조사 특위 간사인 <새누리당:OG> <조원진:PS>, <새정치민주연합:OG> <김현미:PS> 의원은 <1일:DT> <국회:OG>에서 증인채택 등 청문회 개최 방안을 논의했지만 합의점을 찾지 못했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "특히 <북:OG>측이 불참자 명단을 통보한 시각은 <북한 국방위원회:OG>가 이산가족 상봉 합의 재고를 시사하며 <한:OG><미:OG>합동군사연습 중지와 비방·중상 중단을 요구하는 성명을 발표한 이후다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<애밀리 브라우닝:PS>을 얼굴만으로 평가한다면 할 말이 없다.ㅜ",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<1일:DT>(현지시간) 일간지 <USA 투데이:OG>에 따르면, '<피플:OG>'은 기자가 미리 작성한 <더글러스:PS>의 부고 기사를 인터넷 홈페이지에 실었다가 문제가 되자 이를 즉각 지웠다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "애들 영화는 애들이 평가하는게 맞을듯...<2:QT>가 정말 기다려집니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이와 함께 <사법제도개혁특위:OG>는 <오후:TI> 반부패 제도개혁 심사 소위를 열어 특별감찰관 제도 도입과 고위공직자 전관예우 방지 방안 등을 계속 논의할 계획이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<올해:DT> <25살:QT>입니다만 그동안 관심없던 언론들의 행태를 이번 영화를 다보고 나오니 왜 이지경까지 왔는가 잘 알수있었습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "내가 <일본:LC> 영화를 사랑하는 이유는 잔잔함 속에 묻어있는 소중함의 의미가 아닐까?",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "전혀 안무서움;; 리얼 <하나:QT>도 안무서움 기어나오는것도 <하나:QT>도 안무서움; 오히려 <사다코:PS>가 예쁘게 느껴짐 리얼 너무 노잼이라 평점믿고 보지마라",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "어제(<2일:DT>) <중국:LC> 북부지방에서 발원한 황사가 우리나라 상층을 지나면서 현재(<3일:DT> <13시:TI>) <서울:LC>과 <경기도:LC> 일부지역에서 옅은 황사가 관측되고 있습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이양반들 왜 이런다냐..이영화 한단어로..종합선물세트..거창하지만 까보면 별거없음..그리고 이영화 이미 풀렸음..개봉해야만 볼수 있는건 아니지..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<콜로라도 대학:OG> 연구진은 '제니오니스'라 불리는 거대 새의 알 파편 조각들을 분석한 결과, 인간이 알을 요리해 먹은 흔적이 발견됐고 이 때문에 이 거대 새가 멸종의 길로 접어들었다고 국제학술지 <네이처 커뮤니케이션스:OG> <29일:DT>자에 발표했다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<도라에몽:PS> 에피중 <다음날:DT> 시험 때문에 <새벽:TI>에 깨우러 시간이동 해서 벌어지는 소동 에피소드랑 거진 또이또이.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<해운대경찰서:OG>는 이 신고를 바탕으로 <해운대역:LC> 주변에 경력을 추가 배치했고 <오후 6시 55분:TI>께 <해운대역:LC>으로 증강배치된 형사들이 <이대우:PS>를 발견하고 곧바로 검거했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<정의:PS>랑 <메가박스:LC>에서 본 독특한 <독일:LC>영화, 화려한 물고기 페인팅이 기억",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "결국, <정:PS>씨는 <지난달 말:DT> <서울:LC>의 한 병원에 찾아가 검사를 받던 중 외상성 경막하출혈 진단을 받았다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<북한:LC>은 <파나마 정부:OG>에 즉각 출항시키라며 요구했지만, <유엔:OG>의 제재를 피할 수 없을 것으로 보입니다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<콜린 파렐:PS>, <제레미 레너:PS> 때문에 꾸역꾸역 봤는데 왕창 실망^-^o",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이세돌:PS> <9단:QT>은 인공지능이 인간을 이기더라도 바둑의 가치는 사라지지 않는다고 강조했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <계:PS>씨는 차량을 곧바로 사채업자에게 담보로 잡히고 돈을 빌리는가 하면 대금은 전혀 지불하지 않다가 캐피탈 업체로부터 고소됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 배우가 <톰크루즈:PS>같은 사람이 나오고 스토리를 좀더 짜임세 있게 만들었다면 아바타에 버금 가는 걸작이라 생각 되네요 ~",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "감정이 올라올라 할때 쯤 장난스런 반전때문에 웃프다는 느낌이 들게 하고 <오정세:PS> 배우에게서 <조셉 골든 래빗:PS>을 보았네요~",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <이날:DT> <설리:PS>와 <최자:PS> 측은 모두 열애 사실을 부인했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "일부에서는 사람이 타고 있는 최소 <2대:QT>의 차량이 물에 빠졌고 구조작업이 진행 중이라는 말이 나오고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "앞으로 <4회:QT> 방송이 남아있는 '미생'이 지금의 상승세를 이어받아 케이블 역대 최고 시청률을 기록한 '응답하라 <1994:DT>'를 넘어설 수 있을지 주목된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "향후 <김:PS>씨에 대한 조사 결과에 따라 기존 재판에서 제시되지 않은 새로운 사실관계가 드러나거나 증거가 확보될 경우 <최:PS> 회장 재판에 변수로 작용할 가능성도 배제할 수 없다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이 광고는 <지난해 크리스마스 시즌:DT>에 공개돼 선물에 담긴 가치를 아이의 시선으로 잘 표현해 냈다는 평가를 받고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "별을 <한개:QT> 줄까 했는데, 사실 이런 똥 영화들은 나름대로 시대성을 반영하기 때문에 상당히 고무적이다",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <한번:QT>만이라도 그런글 보는 입장<한번:QT>만 바꿔서 생각해봅시다 완벽한건 이세상에 단<하나:QT>도없습니다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<류현진:PS>이 어깨 수술을 받기로 함에 따라 <올 시즌:DT> 등판은 사실상 불가능하다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<2점:QT>은 전반도입부때문에준다 결말이 점수다깎아놨다",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<부산 기장경찰서:OG>는 <5살:QT> 아동 학급의 <두 달:DT>치 CCTV를 분석해 상습 학대는 없었는지, 영상에 나오는 장면이 학대에 해당하는지, 전문가에게 자문을 구한 뒤 해당 여교사와 유치원 원장을 입건할 지를 결정하기로 했는데요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "솔직히 성우때문에 봤고 지상 <333m:QT>에선 아무일도 없었다",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<아나스타샤:PS> 실제 <러시아:LC> 마지막 황제 <니콜라이2세:PS>의 딸 이었고 혁명으로 가족 모두 전원 총살당합니다 <아나스타샤:PS> 생존설이 있었으나 결국 그때 사망한걸로 밝혀졌습니다 그리고 할머니 <마리:PS>, 악당 <라스푸틴도:PS> 실존 인물입니다 물론 저주는 허구이고요",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이에 대해 <중국:LC> 전문가들은 <21일:DT>은 <동지날:DT>이라 해가 가장 짧은 날이기는 하지만 연속 <사흘동안:DT> 해가 뜨지 않는 현상은 과학적으로 설명할 수 없는 허구라며 진화에 나섰다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<복지위:OG>는 앞서 <지난 27일:DT>에도 전체회의를 열어 이 문제를 논의하려 했으나 <진:PS> 장관과 <새누리당:OG> 의원들이 불참해 '반쪽'으로 진행되며 파행을 빚었다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "생방송에서 개그맨들 게스트로 초대해놓고 대놓고 무시하고 <김구라:PS>씨 <봉태규:PS>씨는 성질내고 말자르고결국 <김준호:PS>씨와 <김대희:PS>씨는 면박만 당하고 말<한마디:QT> 제대로하지못하게 하던군요",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이산가족 상봉과 <금강산:LC> 관광의 '연계-분리' 방침을 두고 정반대의 입장을 보여온 <남:OG><북:OG>의 절충점으로 평가됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이들은 <지난 13일:DT> <2015학년도:DT> 대입수학능력평가 <경기도교육청 34지구:LC> 한 고교 시험실에서 시험을 본 한 고교 <3학년:QT> <1∼3반:QT> 학생 학부모들이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하..유치하긴하지만 <하지원:PS>오글발연기두 귀엽고 <김재원:PS>의 풋풋할때모습 넘 잘생겼당ㅠㅠㅠ영화가 옛날꺼라서그렇지 귀엽고 풋풋해재밌당..♡♡",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<A:PS>씨는 <경찰:OG>에게 <8일:DT>과 <9일:DT>에 메르스 확진 환자가 발생한 <순창군 순창읍 장덕리:LC>에서 일을 했다며 주장했으나, 그 당시 <순창군 장덕리:LC>는 마을전체가 격리된 상황으로 <A:PS>씨가 출입할 수 없는 상태였던 것으로 나타났다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<지브리 스튜디오:OG> 정말 좋아하지만 이영화는 자신들이 역사적으로 모든 것의 피해자인마냥 합리화시킨것밖에 안된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "아 진짜 여러모로 아쉬움...웃음, 성을 어둡지 않게 풀어낸점 등 다 갖췄는데 감독님말씀이랑 <클라라:PS> 사건때문에 저평가된 영화",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이들 가운데 <백:PS>씨와 <김:PS>씨 등은 <7일:DT> <오후:TI> <막탄-카모테스섬:LC> 간 해상과 <카모테스섬:LC> 해안가에서 각각 현지 어선과 현지 <재난대응팀:OG>에 의해 구조됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "반대로 <서울:LC>을 향해 출발하면 <부산:LC>에서는 <8시간 20분:TI>, <목포:LC>에서 <6시간 50분:TI>, <대전:LC>에서 <3시간 50분:TI>, <강릉:LC>에서 <4시간 10분:TI>이 걸릴 전망이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 세월호 사건과 <안대희:PS> 전 대법관의 총리 후보 사퇴 과정에서 나타났듯이 로펌에 간 경제부처 관료들이 '전관예우'를 이용해 친정 부처를 상대로 로비하거나 정보를 수집하고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "합동구조팀은 <오전 6시 33분:TI>부터 <9시 5분:TI>까지 수중 수색과 <4층:QT> 선미 창문 절단 작업을 병행했으며, 마무리 단계인 창문 절단은 아직 완료되지 않은 것으로 확인됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<1970년대:DT> 은막의 스타 <정윤희:PS>는 절정의 인기를 누리던 당시 <중앙건설:OG> <조규영:PS> 회장과 만나다 <조:PS> 회장의 부인으로부터 간통죄로 고소당해 구속됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<홍석천:PS>씨,결혼식장 가서 꽃이며 초며 다 가져온댔는데꽃도 일부 호텔에서만 가져올수 있는거고대부분 전예식에 걸쳐서 사용되는거기때문에마음대로 가지고올수없어요",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<기아차:OG>는 직원 연봉뿐만 아니라 복리 후생에도 아낌없는 투자를 한 것으로 확인됐다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <안전행정부:OG>가 입법예고했던 '관공서의 공휴일에 관한 규정 일부 개정안'이 <2012년 12월 24일:DT> 국무회의를 통과해 <2013년:DT>부터 <한글날:DT>은 공휴일로 지정됐습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<연희:PS> 누나 여서 <연희:PS> 누나 때문에 봄",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나, <이규형:PS>이 좋은감독인줄 착각하게만든..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "재판장은 배심 평결을 바탕으로 양측 이의제기 절차를 거쳐 <1심:QT> 판결을 내릴 예정이다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<올해:DT> <7∼8년생:QT>으로 사람의 나이로는 <40대 중반:QT>에 이르는 장순이는 사육사의 도움을 받아 결국 자연 분만으로 새끼 <4마리:QT>를 낳았다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<오바마:PS> 대통령도 회담 시작 전 <박:PS> 대통령과 <아베 총리:PS>에게 <북한:OG>에 대처하기 위해서는 <세 국가:QT>가 단합하는 것이 아주 중요하다고 지적했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<동아일보:OG>와 채널A가 <리서치앤리서치:OG>에 의뢰해 이뤄진 여론조사 결과 <박:PS> 대통령의 국정 수행에 관한 긍정 평가는 <45.9%:QT>였고 부정 평가는 이보다 <4.5%:QT>포인트 높은 <50.4%:QT>였다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 양국 지도자가 외교관계 복원에 힘쓰고 <1990년 8월:DT> <이라크:LC>가 <쿠웨이트:LC>를 침공한 데 대해 <이란:LC>이 <이라크:LC>를 비판하면서 <사우디:LC>의 편에 선 것을 계기로 <1991년:DT> 외교관계가 회복됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "사실 <멜번:PS>의 강박증증세가 영화보는내내 짜증이 나기도 했지만....ㅋㅋㅋ <캐롤:PS>이란 사람으로 인해 변한 <두 남자:QT>를 보며 사람의 좋은 영향력에 대해 느끼게 되었던 영화",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "뒤이어 <삼성종합화학:OG>과 <삼성석유화학:OG>의 합병으로 중화학 부문을 정비하고, <삼성증권:OG>·<삼성생명:OG> 등 금융 계열사에 대한 구조조정에 착수했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이날:DT> 싸움은 구의원들이 <이스탄불:LC> <베이올루 구의회:OG>의 초청으로 의회를 방문한 뒤 시내 관광에 나섰다가, 숙소에 대한 불만과 호텔 방 배정을 둘러싼 갈등 때문에 일어난 것으로 전해졌다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 쉬즈 더 맨에서 보았던 통통 튀는 매력이 없어서 아쉬웠음.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "저는 <최다비드:PS>가 오히려 순정만화 주인공 같아서 확끌리던데 ㅎㅎ",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<홍상수:PS> 좋아하지만 이 영화는 솔직히 많이 별로....",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이 자리에서 <금수원:OG> 신도와의 물리적 충돌을 막기 위한 각종 대책이 논의된 것으로 전해졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<한국일보:OG>는 사측의 <편집국:OG> 점령 사태로 인해 <월요일:DT>자(<17일:DT>) 신문 발행이 불투명해졌습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<엠마:PS>와 <덱스터:PS>를 보니 맘이 아프긴하지만 이제 정말 헤어질수있을거같아요.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이를 바탕으로 금연치료 총 비용을 계산해보면 패치를 단독 사용할 때는 <12주:DT> 기준 <2만1천600원:QT>, 패치와 껌을 동시에 사용하는 경우에는 <13만5천500원:QT>, 부프로피온 사용시 <5만1천800원:QT>, 바레니클린 사용시 <15만500원:QT>의 본인부담금이 발생한다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "난 <오웬월슨:PS> 때문에 봤는데 나름 괜찮네...코믹한 부분도 있구...",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "마지막 새가 어떻게 나오려나 궁금했는데 결국은 대형부엉이(?) ㅋㅋㅋ <2시간:TI>을 참고봐야했을 정도로 핵노잼임.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <10년:DT>뒤 이 영화를 다시 볼땐 더 많은 것이 보이길..!",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <육군:OG>규정을 위반해 과도하게 얼차려를 시행해 해당 병사들에게 신체적·정신적으로 감당하기 어려운 피해를 준 것도 인정된다며 해당 포대장에 대한 경고와 재발방지 대책 마련을 <상급부대:OG> 사단장에게 권고했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<2년전:DT> <필리핀:LC>으로 선교를 다녀왔고 그때 방문한 <바세코:LC>땅을 바탕으로 다큐멘터리영화가 만들어졌다고해서 보고왔다 오랫만에 보고싶었던 선교사님들과 <피노:PS> 목사님 <젬마:PS> 아줌마를 스크린으로마나 만날수 있어서 좋았다",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "나도 저시사회날 가까이서 봤는데 <하정우:PS>님 넘멋지고목소리짱!",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<21일:DT> 방송된 <SBS:OG> '런닝맨'은 고교 허세왕 특집으로 꾸며져 <박재범:PS>, <은지원:PS> 씨, <버벌진트:PS>, <산이:PS>, <제시:PS>가 게스트로 출연했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<흰수염:PS>, <골드로저:PS>와 이름을 나란히하는 전설의 해적이 패기도 못쓰고 <루피:PS>한테 당했다는건 말도 안되는 설정의 오류 너무 억지였습니다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이와 함께 <서울:LC> <강서:LC>갑(<구상찬:PS>·<이종철:PS>)을 비롯해 모두 <9곳:QT>은 경선지역으로 분류됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<KEP:OG>는 <4일:DT> 현재 전국 <17개:QT> 시도 각 투표소에 조사원을 배치해 실시간으로 출구조사를 벌이고 있으며, 예상 표본은 전국에서 <16만여 명:QT>이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 전문가들은 이런 물가상승이 수치상의 변화일 뿐, <한국:LC> 경제의 근본 환경에는 달라지는 것이 없다며 실제 효과는 회의적이라고 입을 모았다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<12점:QT> 정도로 생각했는데...하지만 사형제도에 대한 진지한 성찰을 할 수 있는 계기를 역동적으로 풀어나간것 만으로도 <10점:QT>이다...",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "원작소설이 몇년도에 나온지는 모르겠으나 <04년:DT> 영화로선 좋은 평가 어려울듯",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "군사적인 문제는 이제 전 세계적으로 보아서 <아프리카:LC>라할지라도 타격이라든지 일시적인 침략은 가능할지 모르지만 지배는 불가능한 시대로 간다고 보기 때문에 과거 제국주의 시대 같은 그런 침략과 지배, 이것을 자위력으로 행사하기는 어려울 것입니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <180만:QT> 안에 내가 있다는 것이 자랑스럽다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "신문은 트위터에서 <세실:PS>과 <다와브샤:PS>의 죽음을 다룬 주제어 해시태그(#) 수가 크게 차이가 난다고 지적하면서 소셜미디어에서 특정 사건으로 여론이 치우칠 수 있다고 경고했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<2008년:DT> <18세1개월:DT>의 나이로 <US:LC>아마추어 챔피언십에서 우승한 <대니 리:PS>는 <2009년 2월:DT> <유럽:LC>프로골프투어 조니워커 클래식에서도 정상에 오르며 실력을 입증했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "별<한개:QT>도 아깝다 대체 뭐때문에 저러고 다니는지 이해할수도없고 공감도 안되는영화",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<남:OG><북:OG>이 <17일:DT> <개성공단:LC>에서 <제4차:QT> 당국간 실무회담을 열어 <개성공단:OG>의 정상화 문제를 논의했지만 이번에도 접점을 찾지 못한 채 합의문 없이 회담을 종료했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "앞서 <22일:DT> <고려대학교 총학생회:OG>는 <중앙일보:OG>가 <매년:DT> 실시하는 '대학순위평가'를 반대하는 성명을 발표하고 반대 운동에 돌입했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "대다수 팬은 <레스터시티의:OG> 전력을 '강등권'으로 평가했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<3D:QT>영화 보는 건 좋아하지만 이건 정말 아니다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "차라리 <류승범:PS>과 <조진웅:PS>을 반대로 캐스팅했으면 어땠을까 하는..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<예수:PS>가 힘들어하는 모습이 나온거 <예수:PS>를 신적인 존재가 아닌 <한 명:QT>의 인간으로써 보는 관점이기 때문이고....",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "일탈을 꿈꾸지만 결국 허무함이 되어 돌아오는 감정을 몰입할수있게 연기한 <더스틴호프만:PS> 정말 대단한 배우.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<주한미군:OG> 사드 배치가 <한:OG><미:OG> 간의 국방 현안을 뛰어넘어 <한:OG><미:OG><중:OG> <3국:QT> 간의 대형 안보 이슈로 급부상함에 따라 이번 <KIDD:OG> 회의에서 사드 배치 문제를 공식 또는 비공식 의제로 다룰 것이라고 소식통은 전했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "앞서 <지난 17일:DT> <오후 11시쯤:QT> <최:PS> 병장은 <대구지하철 1호선 명덕역:LC> 승강장에서 발을 헛디뎌 <1.4m:QT> 아래 선로로 추락한 시각장애인을 구조했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "시작은 <니시지마:PS> 때문에 봤는데 나름 괜찮은 영화 봤다고 생각합니다..",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<케리:PS> 장관이 전날 <시리아:LC> 공습의 당위성을 강조하며 <북한:LC>을 언급한 것도 이와 무관하지 않은 것으로 보인다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<2일:DT> <보건복지부:OG>와 <감사원:OG>에 따르면 <건보공단:OG>은 <지난 2009년:DT>부터 가정 방문 요양보호사들이 휴대전화로 각 가정의 전자태그(RFID 방식)를 인식하면 서비스 제공 사실이 이동통신망을 통해 자동 전송되는 시스템을 구축하는 사업을 시작했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<10점:QT>만점에 평가를 하자면 <5:QT>정도는 주고싶습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<1회:QT> 구매 시 <10만원:QT> 이상은 판매가 금지되어 있기도 하지만, 보통 <1만원~2만원:QT> 한도에서 사도록 권유하며, 미성년자에게는 복권판매 자체가 불법입니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 업계에서는 <애플:OG>이 <4.7 인치:QT>와 <5.5 인치:QT> 등 <두 가지:QT> 화면 크기를 가진 신제품 아이폰과 시계 형태의 착용형 단말기를 낼 것이라는 관측이 우세하다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 주당 순익은 시장의 예측치 <7.31 달러:QT>를 웃도는 수준이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG>에 따르면, <A:PS> 씨는 고소장에서 <2012년:DT>부터 <김현중:PS>과 사귀어왔으며, <지난 5월 말:DT>부터 <7월 중순:DT>까지 지속적으로 폭행을 당했다고 주장했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "게다가 <한국:OG>의 새 <정부:OG> 출범을 앞두고 <한:OG><미:OG> 양국이 향후 엄격한 대북 정책을 지속할 수 있을지에 대한 의문도 제기되는 상황이다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이종재:PS> 전 한국교육개발원장(<서울대:OG> 명예교수)이 <지난 11일:DT> <한국교육행정학회:OG> 춘계학술대회에서 <2000년:DT> PISA 자료를 분석한 결과를 보면 <OECD:OG> 국가 가운데 <한국:LC> 고등학생의 문화활동 참여율이 가장 낮았다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <도밍게스:PS>가 바로 추가 실점해 <류현진:PS>의 실점도 <4점:QT>으로 늘었다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 현재 <여당:OG> 일각 등에서 언급되고 있는 공제 수준을 바탕으로 추산하면 전체 보완책 중 출생·연금공제에서만 환급액이 <2천억원:QT>을 넘어갈 가능성이 있다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "논문은 <일본군:OG>이 <아시아 태평양:LC> 지역에서 운영한 위안소 규모가 매우 컸음을 알 수 있다고 강조했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 파국은 엄청난 파도처럼 <한 방:QT>에 밀려온다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "보성여관음악회(<10월18일:DT>/<11월15일:DT> <오후 6시:TI>)와 다도체험교실(<11월1일:DT> <오후 1시:TI>)을 통해 지역의 문화예술을 소개하고 체험과 공연을 통해 문화의 보존과 활용, 그 가치를 되새기는 유익한 장소로 그 역할을 확대해 나아가고 있습니다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<마틴 프리먼:PS>이랑 <3500원:QT> 때문에 꾹 참고봄.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "기대안하고 봤는데 단순 멜로물이 아니네ㅎㅎ정말 <세 커플:QT>의 이야기지만 결국은 <하나:QT>의 이야기라는게 흥미진진했어요",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "가림막 설치로 인해 여야 의원들의 설전이 오가자 <신기남:PS> 위원장은 청문회 시작 <1시간:TI>여 만에 정회를 선포했습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<국가정보원:OG> 직원들에게 선거 개입을 지시한 혐의 등으로 기소된 <원세훈:PS> 전 국정원장이 이른바 '원장님 말씀'을 한 것은 인정하지만 이를 선거나 정치개입으로는 볼 수 없다며 공소 사실에 대해 전면 반박하고 나섰다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<곽시양:PS>군은 연기를 잘하고 <기웅:PS>역으로나온 <이재준:PS>군의 연기는 쫌 오그라들었지만 너무잘생겼다ㅋ",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<북한:OG>의 위협이 최고조에 달했던 <지난 1일:DT> <한국:LC>에 급파된 <엥겔:PS> 기자로 인해 SNS에서는 '진짜 전쟁이 나는 것 아니냐'는 등의 불안 여론이 확산되기도 했습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <패터슨:PS>은 국내로 송환된 <23일:DT> 현재까지 살인 혐의를 부인하고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<부산 부성고등학교:OG>가 역사왜곡 논란과 사실 오류 지적 등이 일고 있는 <교학사:OG> 한국사 교과서를 채택한 가운데, 해당 고교의 지난해 입학식 환영 현수막이 SNS에서 확산되고 있습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "해외에 ATM이 없는 대부분 은행은 최소 해외 인출 수수료 <3달러:QT>와 네트워크비용 <1％:QT>를 부과하지만, <씨티은행:OG>은 수수료가 없고 네트워크비용도 <0.2％:QT>로 적어 인출하는 금액이 커질수록 이득을 볼 수 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<4일:DT> <전남 목포경찰서:OG>에 따르면 <지난 3일:DT> <오후 10시 18분:TI>께 <목포:LC> 모 아파트 <9층:QT>에 사는 <A:PS>(<고3:QT>)양이 아파트 화단에서 쓰러져 있다가 주민 신고로 <119구조대:OG>에 의해 병원으로 옮겨졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "나는 오히려 클레멘타인보다 감동적으로 봤는데 사람들의 눈이 너무 넢아짐.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<지난 15일:DT> <오후:TI> <서울 동작구 본동 노량진 배수지:LC>에서 발생한 수몰 사고는 폭우로 한강 수위가 급격히 상승하고 있는 상황에서 업체가 상수도관 공사를 그대로 밀어붙여 발생한 인재(人災)라는 지적이 나오고 있습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "수사당국은 <이날:DT> <볼고그라드:LC> 역사 테러와 지난 <10월 말:DT> <볼고그라드:LC> 시내버스 테러가 같은 테러 단체의 소행일 가능성에도 주목하고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "남주,여주 때문에 몰입하면서 초중반까지 괜찮게 기대하며 봤는데...갑자기 <둘:QT>의 사랑이 전개도 안시키고 남주 죽여버리면 어쩌라고ㅜㅜ 레스토랑이라도열고죽게하던가..",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 이러한 <소니:OG>의 낙관적인 전망에 대한 외부의 평가는 냉정하다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "황당하지만 쓴웃음이 지어지는 씁쓸한 블랙 코미디 영화.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "뭔가 매우 현대적이고 감각적인 영화를 만들려고 한 것 같은데...잦은 상상 장면으로 인해 집중도만 떨어지고 , 깊이도 없고, 내용도 없는 이도 저도 아닌 영화가 되어 버린 듯..",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<법원:OG>은 그러나 <매닝:PS> 일병에게 적용된 간첩법 위반 혐의 등에 대해서는 대부분 유죄를 인정했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "앞서 <오전 3시 28분:TI>께 <울주군 상북면 이천리 배내골 들살이 오토캠핑장:LC>에서도 피서객 <100여명:QT>이 불어난 물에 발이 묶였다가 <119구조대:OG>의 안내를 받아 인근 초등학교 등지로 대피했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 지금 우리는 <릴 웨일:PS>과 <테일러 스위프트:PS>, <오프라:PS>, <저스틴 팀버레이크:PS>, <위어드 알:PS>과 <빌게이츠:PS>가 ALS에 대해서 말하는 세상에 살고 있습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "피고 변론을 맡은 국선 변호인 <이언 골드:PS>는 <김:PS>씨가 기말고사와 별세한 부친의 <3주기:DT> 때문에 큰 스트레스를 받았고 현재 자신의 행동을 후회하는 것으로 보인다고 <AP통신:OG>에 밝혔다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "또 <메르켈:PS> 총리가 역사 문제를 언급했음에도 이에 관해 주고받기 식의 대화가 이뤄지지 않았다며 <아베:PS> 총리가 적극적으로 반응하지 않았음을 시사했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "오늘방송보며 <이성미:PS>씨때문에 짜증이 확났습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <이번 주:DT> 초 <인도:LC> 동부를 강타한 대형 사이클론 '후드후드'의 영향으로 이례적으로 <네팔:LC> 전역에 지난 <이틀:DT>간 폭우와 폭설이 내려 피해가 컸다고 당국은 전했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "내자신이 한심하게 느껴진 영화연출연기다 도저히 불과 <6년전:DT> 영화란게 믿기지 않는 영화 <김기덕:PS>감독이 이영화로인해 우스워 보이는 영화<네이버:OG>평점이 믿을게 못되는 구나 알려준 영화",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<오혜상:PS>은 <한지혜:PS>의 도움으로 도주했지만 <이날:DT> 방송말미 결국 <주기황:PS>(<안내상:PS>)에게 붙잡히며 죗값을 치를 것을 예고했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<금감원:OG>은 앞서 <2014년:DT>에는 <14곳:QT>을, 지난해에는 <11곳:QT>을 약정대상 기업으로 선정하고 자본확충, 자산매각, 사업구조 재편 같은 자구계획을 이행토록 한 바 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이정미:PS>·<김이수:PS>·<이진성:PS>·<강일원:PS> 재판관은 오히려 선거라는 특수성 때문에 익명의 정치적 의사표현을 보장해야 한다고 반박했다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "우선 우리는 현 정부의 거듭된 해명에도 불구하고 절대다수 국민들이 신뢰하지 않는 이유는 무엇보다 <국토교통부:OG>가 보여준 불통과 계속된 말 바꾸기에 그 원인이 있다고 생각합니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<홍명보:PS>호가 평가전에서 <미국:OG>에 완패를 당했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이날:DT> 작별상봉을 포함해 총 <6번:QT>, <12시간:TI>의 상봉행사를 치른 양측 가족들은 그러나 짧은 <2박3일:DT>의 상봉 후 다시 기약없는 이별을 하게된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<춘천경찰서:OG>는 <춘천:LC>의 한 대학교 외국인 교수 <A:PS>(<43:QT>)씨가 개인 사물함에 있던 음료를 마시고 두통과 복통을 일으킨 것과 관련해 <국립과학수사연구원:OG>에 성분 분석을 의뢰한 결과 '메탄올' 성분이 검출됐다고 <5일:DT> 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 제가 <10점:QT>만점 중에 별 <하나:QT>를 뺀 이유는 마지막의 불일치랄까...",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<소피마르소:PS>때문에 <10점:QT>을 주게 되어버렸다..",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<마니사 지방정부:OG> 관계자는 <CNN튜르크:OG>와 통화에서 폭발로 탄광 안에 갇힌 광부가 <200~300명:QT>에 이른다며 현재 연기가 많이 발생해 구조작업에 어려움이 있다고 말했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<BC카드:OG>는 <서울:LC> 시내 <20만개:QT> 요식업종의 <지난 6∼7월:DT> <오후 6∼12시:TI> 사이 카드결제 데이터를 분석한 결과, 비 오는 날 특수를 누리는 음식점은 파전 전문점과 민속주점, 야식집 등인 것으로 나타났다고 <2일:DT> 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<지난해 9월 6일:DT> <국회 교육문화체육관광위원회:OG> 소속 <김태년:PS> <민주당:OG> 의원실이 <교학사:OG> 교과서에 실린 사진 <561개:QT>의 출처를 분석한 결과, <58.3%:QT>인 <327개:QT>가 포털, 블로그 등 인터넷 검색을 통해 얻은 사진으로 나타났다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "모습에 연기인줄 잊을 정도로 그 사람이 불쌍하고 가엽게 느껴집니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "제일 좋아하는 <일본:LC> 추리작가 <히가시노:PS> 그의 명성을 잘 받쳐준 이지적인 <후쿠야마:PS>,,,<갈릴레오:PS>를 보기전에 이 영화를 보고 쇼크받았다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<올 시즌:DT> <두산 베어스:OG> 주장을 맡아 팀을 <한국:LC>시리즈 우승까지 이끈 <오재원:PS> 선수는 다음 시즌에도 <두산:OG> 유니폼을 입고 <잠심:LC> 구장을 누비게 됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "선발로 나와 <후반 16분:TI>까지 <7.2㎞:QT>를 뛰어 적지 않은 활동량은 기록했으나 선전으로 평가되기에는 부족한 면이 있었다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<고은아:PS>의 밀도있는 연기에도 불구하고 이야기 전개의 지루함은 어쩔수 없군",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<강지영:PS>은 <4월:DT>까지 <DSP미디어:OG>와의 전속 계약기간과 예정된 스케줄이 남아 있고, 먼저 보도 된 것처럼 <DSP:OG>와의 재계약 논의 과정 중 '학업을 위해 유학을 떠나고 싶다’는 의사를 전달 해 왔습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "오래전에 봤지만 ~~~잊혀지지 않는 영화 ~이 영화때문에 <라이언고슬링:PS>과 <레이첼맥아담스:PS>를 좋아하게됐음",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<99분:TI>의 시간이 짧음에도 불구하고 지루함이 느껴진다..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "환경단체들은 <민주당:OG> <양승조:PS> 의원이 <지난달:DT> 공개한 '<일본:LC> 원전사고 이후 가공·원료식품 업체별 수입 현황'에 근거하면 <롯데:OG>·<해태:OG> 측이 일본산 원료를 사용하는 것이 확인됐다며 이들이 생산한 초코과자에 방사능 오염지역에서 온 원료가 사용됐을 가능성이 크다고 주장했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<10개국:QT>의 요청에 따라 <안보리:OG> 의장을 맡은 <차드:LC>의 <마하마트 젠 체리프:PS> 대사는 <지난 15일:DT> 회의에서 이사국들의 의견을 수용해 안건 상정 여부를 논의하기로 했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "우리나라 대통령과 <일본:OG>·<중국:OG>의 총리가 참석하는 <한:LC><중:LC><일:LC> <3국:QT> 정상회의는 경제·문화·인적 교류 등 <3국:QT>간 긍정적인 협력 이슈를 논의하는 자리지만 과거사·영토 문제로 인한 <중:OG><일:OG> 외교 갈등 등으로 <2012년 5월:DT> 이후 열리지 않고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "협회 측은 타협안을 제시해도 <산업부:OG>가 몇시간 검토를 거친 뒤 다시 '원안대로 하자'며 제자리걸음을 했다고 주장했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "개념없이 많은 슬로우모션과 뻔한 스토리에 <토니쟈:PS>가 아깝다..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이안:PS>감독 최대의 실패작 재평가받을필요도없다..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<진보정의당:OG>은 이미 밝힌바대로 지난 <2월28일:DT> 전국위원회 결정에 따라 빠른 시간 안에 후보결정 절차에 들어갈 것임을 다시 한 번 확인드린다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "가장 주목받는 래퍼 <니키 미나즈:PS>와 <믹밀:PS>이 <크리스 브라운:PS>과 발표한 곡이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<로완 앳킨슨:PS> 진지한 연기두 잘하지만 그건 당신이 아니다....",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "양 공동대표가 전한 <외무성:OG> 측의 설명은 <한국:OG> 정부가 최근 강조하는 것과는 다소 거리가 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<사라:PS>가 오히려 궁지에 몰리는 현실의 모순을 빗대어 역설적으로 표현한 작품.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<한번:QT>쯤은 <김혜자:PS>-<나문희:PS>같이 엄마 역으로 나오는걸 보고싶습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <1심:QT>은 사건 당시 <A:PS>씨가 입고 있던 유니폼에서 혈흔이 나온 점, <A:PS>씨가 피해자에게 미안하다는 문자메시지를 보낸 점 등을 고려해 징역 <3년:DT>을 선고했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "일드매니아이고 <아오이유우:PS> 조아하지만 이건 아니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 연봉 <6천600만원:QT> 이상인 미혼 직장인은 세금이 <작년:DT>보다 급증한다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<드라기 총재:PS>는 이 여성으로 인해 잠시 당황한 듯 했으나 이내 침착함을 되찾았다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "사고 당일인 <16일:DT> <오전 8시52분:TI> <단원고:OG> <2학년 6반:QT> <A:PS>군은 자신의 휴대전화로 <전남소방본부 119상황실:OG>에 \"배가 침몰하는 것 같다”며 처음으로 구조요청을 했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "키득거리며 웃음, 색다름, 조연배우들의 연기가 좋았음, 음악 선택이 깔끔함, 그러나 후반부터 갈길을 잃은 느낌.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<수전 라이스:PS> <미국 백악관:OG> 국가안보보좌관도 <이날:DT> <NBC:OG> 방송과의 인터뷰에서 <우크라이나:LC>의 분열이 누구에게도 이익이 되지 않는다고 강조했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "끈질기게 추격을 노리던 <신시내티:OG>는 오히려 <8회초:TI>에 <윌 베나블:PS>에게 솔로 홈런을 맞아 <1-3:QT>으로 패했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "TV드라마 <4부작:QT>인것으로 알고 있었는데..정말 집중하면서 보게되고 , <독일:LC>의 또 다른 관점의 전쟁의 실상 영화라 할수 있죠.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<천주교정의구현사제단:OG>이 <국가정보원:OG>의 대선 개입 사태를 규탄하는 첫 시국미사를 갖습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<룬드그렌:PS>과 <토니쟈:PS>의 연기와 액션은 인정하지만",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "나름 괜찮은 소재이고 충분히 관객들 감동 끌어줄수 있는데도 불구하고, 연출과 스토리가 계속 뭔가 말을 하려다 말고, 보여주다 마는 느낌.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<8일:DT> <서울 마포경찰서 용강지구대:OG>에 따르면 <지난 7일:DT> <오후 1시 30분:TI>께 <마포대교:LC> 북단에서 자살을 시도하던 <이:PS>모(<18:QT>)군이 신고를 받고 출동한 경찰에 의해 구조돼 가족에게 인계됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 공급가가 조정되면 저가담배(인상 전 <2천원:QT>)의 소매점 마진율은 <7.5％:QT>로 떨어지는 것으로 파악됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "차가운 복수극과신데렐라식 성공극의<두마리:QT> 토끼를 한번에 다 잡으려 하지만,각본의미숙과연출력의부족으로 어느<하나:QT>도 잡지 못한다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<경찰:OG>과 <소방당국:OG>은 수몰된 나머지 <6명:QT>의 인부들에 대한 긴급 구조 작업을 진행중이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "물론 <배두나:PS>는 반할만하지만 이영화 전체적으론...절대...",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 비공식적으로는 소주 <20병:QT> 이상 마시는 것으로 알려졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "악역으로나온 <두분:QT>도 보고있자니 나홀로집에에나온 도둑들을연상케했고 굳이 넣지않아도되는장면을 왜넣었을까 하는생각도든다 어쨋든 별로..",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<1일:DT> <재벌닷컴:OG>이 <1천789개:QT> 상장사 대주주와 특수관계인이 보유한 국내 상장사 주식지분 가치를 <작년:DT> 주식시장 폐장일(<12월 28일:DT>) 종가 기준으로 평가한 결과, 주식가치가 <1조원:QT>이 넘는 '<1조원:QT> 클럽'은 <15명:QT>으로 <2010년말:DT>과 비교해 <1명:QT>이 줄었다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<북한대학원대학교:OG>와 <미국 우드로우윌슨센터:OG>는 <16일:DT> 유신체제 수립 <40주년:DT>을 맞아 유신체제 수립을 보는 <북한:OG>과 <미국:OG>의 시각과 대응을 공동으로 분석했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "지금보면 좀 허접한 듯 하지만 <93년:DT> 극장에서 정말 재미있게 봤던 영화",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<가정의달:DT> 특집드라마보다도 못한 재미와 감동이라 실망스럽다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 <시진핑:PS>은 <내년 3월:DT>에 열릴 전국인민대표대회에서 국가주석으로 선출될 예정이어서 공식적으로 <후진타오:PS>(<胡錦濤:PS>) 주석- <원자바오:PS><(溫家寶:PS>) 총리 체제에서 <시진핑:PS> 주석- <리커창:PS> 총리 체제로 탈바꿈하려면 <내년 3월:DT>까지 기다려야 한다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<검찰:OG>은 법정서 공개된 메시지 내용을 토대로 <김:PS> 의원의 살인교사 혐의가 확실하다고 주장한 반면 변호인은 <검경:OG>이 짜맞추기를 하고 있다며 반발했다.",
+    "qps": 0.65,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<오바마:PS> 대통령은 이번 방한때 <박근혜:PS> 대통령과의 정상회담을 통해 강력한 <한:OG>·<미:OG>동맹에 대한 <미국:OG>의 공약을 재확인하고 ▲<북한:OG>의 최근상황 평가 ▲<북한:OG> 비핵화 촉진 방안 ▲<한:OG><미:OG> 자유무역협정(FTA)의 지속적 이행 문제를 논의할 예정이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "다만 아쉬운 것은 예고편이 너무나 많은 것을 말해준 다는 점?<몬구:PS>씨나 <희정:PS>씨 노래 너무 좋내요",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<박근혜:PS> 대통령 당선인은 <7일:DT> 대통령직인수위 첫 전체회의에서 사회적 신뢰회복을 위한 공약의 철저한 이행과 이를 위한 관행의 개선을 강조했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<아소 부총리:PS>는 <지난 4월:DT> <야스쿠니 춘계 제사때:DT> 참배했고, <한국 정부:OG>가 그에 항의하는 의미로 당시 예정돼 있던 <윤병세:PS> 외교장관의 <일본:LC> 방문 일정을 취소함에 따라 <한:OG><일:OG>관계는 급격히 냉각됐다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <3년:DT> 만의 컴백을 앞두고 제작진과 함께 의욕을 보였던 <김정은:PS>과 <김수로:PS>가 <지난 19일:DT> 배우들과 작가, 연출진의 첫 상견례를 앞두고 있는 상황에서 갑작스런 하차 의사를 통보해왔고, 결국 출연이 불발되었습니다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<1명:QT>의 승객만이 구조됐고, 나머지 <7명:QT>은 모두 사망한 것으로 추정된다고 <쓰촨온라인:OG>은 전했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 <박인비:PS>는 <7번:QT>홀(<파5:QT>)에서 <4라운드:QT> 첫 버디를 잡고 단독 선두로 다시 치고 나가며 전반을 마쳤다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<지난 6일:DT> 방송된 <MBC:OG> '시사매거진<2580:QT>'에서는 <지난달:DT> <경찰:OG>에 적발된 <부산:LC> 장기 밀매단의 표적이 됐던 <김:PS>군의 기구한 사연이 공개됐다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<12cm:QT>는 <1984년:DT> <기상청:OG> 관측 이래 <제주:LC> 지역에서 기록된 역대 <세 번째:QT> 적설량이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<맹승지:PS>때문에 감점 <성은:PS>아 앞으로도 여러가지로 좋은연기 보여주길바래~~",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "기초연금 전액을 받는 인원이 줄어들면 노인의 전체적인 노후보장수준(소득대체율)도 떨어지게 된다고 <이:PS> 의원은 지적했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "현지 언론은 물론 <AP통신:OG>과 <dpa통신:OG> 등 <서방:LC> 매체들도 <쯔위:PS> 논란이 <대만:LC> 선거의 핫이슈로 부상했다며 별도 기사를 내보내는 등 주목하는 분위기다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "법 처리 절차 역시 <새누리당:OG>은 현재 법이 계류중인 <농림축산식품해양수산위원회:OG>에서 논의하자는 방침이지만 <새정치연합:OG>은 별도 특위를 구성하자고 주장해 거리가 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이에 따라, <남인도양:LC>을 유력한 불시착 지역으로 판단해 펼쳐온 수색은 난항에 빠졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<은정:PS>얼굴때문에 웃겨서 제대로 못봤음 존나진지하게볼라는데 <은정:PS>졸라웃기게생겼음",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 범행 당일에는 정작 남자직원이 <1명:QT>밖에 출근하지 않았고 슈퍼에 가 자리를 비운 상태였다고 <이 서장:PS>은 말했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "충돌 회피 지원시스템은 장기 운항을 통해 성능 및 안정성 평가를 마친 뒤, <2016년:DT>부터 상용화될 계획이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<25일:DT> <이마트:OG>에 따르면 <이달 1∼21일:DT> 매출을 분석한 결과 건강한 식습관을 유지하는데 필요한 것으로 알려진 이른바 '슈퍼푸드' 매출이 종류별로 최대 <180%:QT> 이상 급증했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "협의회는 아웃도어 업체 <4곳:QT>의 재무제표를 분석한 결과, 최근 <5년간:DT> 매출액 대비 광고·판촉비 비중은 <7.3%:QT> 증가했지만 매출원가 비중은 <3.6%:QT> 감소했다고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<1996s년:DT> <중3:QT>때 학교에서 극장에 강제로보게한 영화긴하지만 후회없이 재미있게봣습니다...",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "특히 <병무청:OG>의 ’신검 인성검사 이상자 현황' 분석 자료를 보면 <지난해:DT> 신체검사에서 ’이상자'로 분류된 <3만922명:QT> 가운데 <87%:QT>(<2만6786명:QT>)가 현역으로 입대하고, <13%:QT>(<4136명:QT>)만 <4급:QT> 보충역이나 재검의 판정을 받았다.",
+    "qps": 0.45,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<브라질:LC> 월드컵 <16강:QT>에 진출하지 못한 <일본 대표팀:OG> 주장 <하세베 마코토:PS>가 장문의 글을 남겼습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<수원지법 형사9단독:OG> <지귀연:PS> 판사는 <16일:DT> 간통 혐의로 기소된 전 사법연수원생 <A:PS>(<33:QT>)씨에게 징역 <6월:DT>을 선고한 반면 같은 혐의로 기소된 동기 연수생 <B:PS>(<30:QT>·여)씨에게는 무죄를 선고했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<비비안리:PS>와 <그레이스켈리:PS>의 매력에 따라가지 못하는..<1人:QT> 하지만 고전영화에 있어서 그녀는 전설이라불리우고있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "반대로 <서울:LC>에서 출발해 <부산:LC>과 <대전:LC>, <광주:LC>, <목포:LC>, <강릉:LC>에 도착하려면 각각 <5시간:TI>, <1시간 50분:TI>, <3시간 20분:TI>, <3시간 50분:TI>, <3시간:TI>이 소요된다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 겨울철 가스요금 부담을 완화하는 차원에서 미수금은 반영하지 않고 원료비 감소분만 반영해 인하폭을 <5.9%:QT>로 확대했다고 <산업부:OG>는 설명했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<전북 익산시립합창단:OG> 간부에게 성추행을 당했다고 주장한 피해자 <3명:QT>이 인터넷신문 '<참소리:OG>'와의 인터뷰에서 증언한 내용이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "노후 대비가 불충분한 베이비붐 세대(<1955∼1963년:DT>생)들이 계속해서 일손을 놓지 않고 있는데다 경기 부진으로 <40∼50대:QT> 주부들이 대거 생활 전선에 뛰어들어 세대 간 소득 격차가 벌어졌다는 분석이 나온다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "연간 소득금액이 <100만원:QT> 이하인 배우자가 있으면 기본공제는 물론 신용카드 사용액, 보험료, 교육비 등에 대한 공제가 가능하기 때문에 배우자가 꼭 정보제공 동의신청을 하는 것이 좋다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<프랑스:LC>를 상징하는 관광 명소인 <에펠탑:LC>에는 <한해:DT> <700만 명:QT>의 관광객이 방문하며 여행 성수기인 <여름:DT>에는 <하루:DT> 최대 <3만 명:QT>이 찾는다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<2012:DT> 레미제라블도 괜찮지만 <리암니슨:PS>과 <제프리 러쉬:PS> 때문에 이영화가 더 좋아요 ㅎㅎㅎ",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 최근 <소셜매틱:OG>이 폴라로이드 라이센스를 갖고 있는 <시엔에이:OG>와의 파트너십을 발표하면서 이 프로젝트는 부활하는 데 성공했습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "아 나 진짜 솔직히 <엠비씨:OG> 사극 지금껏 매우 재밌게 봐왔다 하지만 이 드라마는 정말 아닌 것 같다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "전문가들은 <한국:LC>의 경제 펀더멘털이 과거와 다르다는 분석을 내놓고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <KT:OG>에 선수를 빼앗긴 <SK텔레콤:OG>과 <LG유플러스:OG>가 뒤늦은 발표에 따른 열세를 만회하기 위해 어떤 식으로든 세부 내용에는 차별화를 둘 것이라는 전망도 제기되고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<한국 대표팀:OG>은 <10일:DT> <미국 플로리다주 마이애미:LC>의 <선라이프 스타디움:LC>에서 열린 <가나:OG>와의 평가전에서 <0-4:QT>로 졌습니다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이 같은 처분은 시민단체의 거센 항의를 받았으며, 결국 <A:PS>양 부모의 항고로 재수사에 착수한 <검찰:OG>은 <2014년 6월:DT> <안:PS>씨를 직무유기 혐의로 기소했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<이민정:PS> 때문에 봤었는데 진짜 재밌음 대박 그자체",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "프랜차이즈 업체 <KFC:OG>가 부적절한 언어 사용으로 물의를 빚은 가운데 과거 비슷한 사례로 사과 했던 <마몽드:OG> 광고가 다시 주목받고 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "구조된 선원 가운데 <4명:QT>은 생명이 위독한 상태로, 헬기로 병원에 이송중이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<장나라:PS>가 연기를 잘해서 그나마 <3점:QT>...어이없는 장면 설정에 전개가 너무 끊기고 <바다:PS>는 이중인격..?초단위로 감정기복이 엄청난 ㅋ..에휴 <유아인:PS>때문에 본건데 정말 <유아인:PS> 보는 맛에 끝까지 봤네요",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "따라서 이번 운동에 함께 힘을 모았던 한인단체들은 <2∼3년:DT> 이내에 <미국:LC> 대부분 지역에서 <동해:LC>가 병기된 교과서가 사용될 것으로 기대하고 있다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "영화를 보는 사이사이에 아쉬움이 남기는 하지만、그나마 <성은:PS>님께서 성은이 망극하게도 화끈하게 연기해 주어서 재미있게 잘 봤습니다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "또 교육학-지리학 계열은 <베이징사범대:OG>, 수리공정 계열은 <허난(河南)대학:OG>, 대기과학 계열은 <난징(南京)정보공정대학:OG>이 각각 최고 평가를 받은 것으로 나타났다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "\"정의\" 익숙한 단어였지만 그 의미는 모호했다.이 영화를 보며 \"정의\"라는게 무엇인지 보여주었다.<배트맨:PS> 비긴즈는 영화라는 틀을 넘어 인생을 보여준다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<까락스:PS> <3부작:QT> 중 가장 난해하지만 가장 오래 기억된다",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "대체적으로 지루하고 코미디임에도 불구하고 <하나:QT>도 안웃긴 스토리",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "부시:PS> 대통령 당시 <북한:OG>의 비핵화 또는 미사일 프로그램 포기 약속만 믿고 식량(영양) 지원을 했다가 <북한:OG>이 양보만 얻어내고 나서 약속을 틀어버리는 일이 반복됐다는 의원들의 지적에 대한 답변이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이후 '로비스트’, '대왕 <세종:PS>’, '<에덴:LC>의 동쪽’, '자이언트’ 등 다수의 작품에 출연했던 <남지현:PS>은 특히 <2009년:DT> '<선덕여왕:PS>’에서 <이요원:PS>의 아역으로 등장해 얼굴을 알렸다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "제작사나 방송국에서도 이런 찌라시 내용 때문에 캐스팅을 못 하겠다고 말하는 것도, 그렇다고 계속 끌고 가는 것도 참 난감할 것”이라고 전했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "갤럭시 S5′는 소비자가 가장 많이 사용하는 기능들의 혁신을 위해 세계 최고 수준의 <삼성:OG> 스마트폰 기술력을 바탕으로 사용자의 편의성을 극대화한 신기술을 대거 탑재했습니다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "감독이 무얼 말하려는 걸까 정말 <일주일동안:DT> 줄곳 생각했습니다만",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<일본:OG>이 올해 방위백서에서도 <독도:LC>가 <일본:LC>땅이라고 주장했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<장발장:PS>은 결코 <자베르:PS>의 자살을 방관할 사람이 아닌데도 오히려 자살 뒤에 기뻐함.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "대추나무 <대철:PS>이가 그나마 <맹상훈:PS>보단 <마동탁:PS>역으로 적합함.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<최인혁:PS>(배우 <이성민:PS> 씨)과 간호사 <신은아:PS>(배우 <송선미:PS> 씨)로 등장했던 <두 사람:QT>은 애틋한 감정이 싹터 '러브 라인'으로 발전하는 듯했으나, 결국 연인 관계로 발전하지 못 했다.",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<송증현:PS> 좋아하지만 이 몇년간 좋은 작품 없네요...",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<해경:OG>은 <지난달 18일:DT> <6번째:QT> 정정 발표에서 총 탑승자는 <476명:QT>이며 이중 구조자는 <174명:QT>이라고 밝힌 바 있다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "원격의료 등 <정부:OG>의 의료정책에 반대해온 <대한의사협회:OG>가 <정부:OG>의 경고에도 불구하고 <10일:DT> <하루동안:DT> 집단휴진을 강행키로 해 전국 곳곳의 병의원에서 진료파행이 불가피할 전망이다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "하지만 방대한 내용을 <3편:QT>에 담다보니 아쉬운 부분이 있음.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<KGI증권:OG> 애널리스트 <밍치궈:PS>는 <14일:DT>(현지시간) 보고서를 통해 애플이 <5.5:QT> 인치 화면의 아이폰 신모델에서 생산 문제를 겪고 있으며 이 때문에 발매가 늦어질 것으로 보인다며 이렇게 분석했다.",
+    "qps": 0.5,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "<15일:DT> <IS:OG>는 <리비아:LC>에서 인질로 잡았던 이집트인 <콥트교도:OG> <21명:QT>을 참수했다고 주장하는 동영상을 공개했다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "이밖에 <이날:DT> <오전 1시 25분:TI>께 <충남 예산군 대흥면 예당저수지:LC>에서는 이곳 좌대에서 낚시하던 사람 <22명:QT>이 강한 바람 때문에 출동한 <119:OG> 구조 대원에 의해 안전한 지역으로 옮겨졌다.",
+    "qps": 0.65,
+    "details": {
+      "causal": true,
+      "contrast": true,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "라스 좋아했는데 <김구라:PS>씨 때문에 정말 보기싫어지네요",
+    "qps": 0.35,
+    "details": {
+      "causal": true,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "투표는 주민등록증이나 면허증, 여권 등 관공서 또는 공공기관이 발행하는 사진이 부착된 증명서를 지참하면 참여할 수 있고, 투표소 위치는 투표안내문뿐만 아니라 <중앙선관위:OG> 홈페이지나 각 지방자치단체 홈페이지, 포털사이트 등을 통해 확인할 수 있다.",
+    "qps": 0.25,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": false,
+      "complex": true,
+      "length": true
+    }
+  },
+  {
+    "sentence": "약간 식상하긴 하지만 시대에 안 맞는 행동하는 <레오폴드:PS> 왠지 모르게 매력 터진닼ㅋㅋ <휴잭맨:PS>은 사랑입니다!!!ㅋ",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "국제 테러리즘과 사이버 공격 위협에 대한 대처도 강조하면서 <미국:LC>이 전쟁과 경제난으로 점철된 <지난 15년:DT>을 보내고 '역사의 <한 장:QT>을 넘길 때'라고 밝혔다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": true,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "최근의 은행 점포 감축은 과거 외환위기 직후 <5개:QT> 은행이 구조조정으로 사라진 이래 가장 규모가 크다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": false,
+      "claim": false,
+      "abstract": true,
+      "complex": false,
+      "length": true
+    }
+  },
+  {
+    "sentence": "그러나 <지난해 12월:DT> '난민 유입을 철저히 단속하겠다'는 약속과 함께 <노르웨이:OG> 초대 이민장관으로 <실비 리스트하우그:PS>가 취임한 이후 상황이 달라졌다.",
+    "qps": 0.3,
+    "details": {
+      "causal": false,
+      "contrast": true,
+      "claim": false,
+      "abstract": false,
+      "complex": false,
+      "length": true
+    }
+  }
+]
